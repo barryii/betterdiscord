@@ -419,11 +419,11 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
 #app-mount .sidebar-2K8pFh .clickable-23RaYz:hover .content-3xS9Lh {
   background: rgba(var(--BG-member-hover-leftclick-background));
 }
-/*左邊語音頻道滑點選成員的背景顏色*/
+/*左邊語音頻道點選成員的背景顏色*/
 #app-mount .sidebar-2K8pFh .clickable-23RaYz.selected-3TGCSZ .content-3xS9Lh {
   background: rgba(var(--BG-member-leftclick-background));
 }
-/*左邊語音頻道滑點選成員的名字顏色*/
+/*左邊語音頻道點選成員的名字顏色*/
 #app-mount .sidebar-2K8pFh .clickable-23RaYz.selected-3TGCSZ .content-3xS9Lh .username-lm8y6T {
   color: rgba(var(--BG-member-leftclickword-name)) !important;
 }
@@ -768,8 +768,9 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
   color: rgba(var(--BG-gradient-one), 0) !important;
   border-color: transparent !important;
 }
+/*沒有身分組的成員名字顏色*/
 #app-mount .members-1998pB .activity-2Gy-9S {
-  color: rgba(255, 255, 255, 0.3);
+  color: rgba(var(--BG-member-withoutrole-name));
 }
 
 #app-mount .searchResultsWrap-2DKFzt {
