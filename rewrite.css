@@ -405,10 +405,10 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
   background: transparent;
 }
 #app-mount .sidebar-2K8pFh .clickable-23RaYz:hover .content-3xS9Lh {
-  background: rgba(255, 255, 255, 0.5);
+  background: rgba(var(--BG-member-before-leftclick-background), var(--BG-member-before-leftclick-background-brightness));
 }
 #app-mount .sidebar-2K8pFh .clickable-23RaYz.selected-3TGCSZ .content-3xS9Lh {
-  background: rgba(255, 255, 255, 0.5);
+  background: rgba(var(--BG-member-leftclick-background), var(--BG-member-leftclick-background-brightness));
 }
 #app-mount .sidebar-2K8pFh .clickable-23RaYz.selected-3TGCSZ .content-3xS9Lh .username-lm8y6T {
   color: rgba(var(--BG-member-leftclickword), var(--BG-member-leftclickword-brightness)) !important;
