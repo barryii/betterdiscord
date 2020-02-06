@@ -811,14 +811,15 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
 #app-mount .searchResultsWrap-2DKFzt .jumpButton-Ia2hRJ {
   background: linear-gradient(var(--BG-gradient-direction), rgba(var(--BG-gradient-one), 1), rgba(var(--BG-gradient-two), 1));
 }
+/*搜尋結果下的重點*/
 #app-mount .searchResultsWrap-2DKFzt .embedInner-1-fpTo, #app-mount .searchResultsWrap-2DKFzt .searchResultMessage-2VxO12.hit-NLlWXA {
   box-shadow: none;
   border: none;
-  background: rgba(0, 192, 255, 0.3);
+  background: rgba(255, 255, 255, 0.3);
 }
 #app-mount .searchResultsWrap-2DKFzt .searchResult-3pzFAB.expanded-v2Szsz {
   border: none;
-  background: rgba(0, 0, 0, 0.2);
+  background: rgba(0, 192, 255, 0.2);
 }
 
 #app-mount .layer-3QrUeG[aria-label*=SETTINGS] .standardSidebarView-3F1I7i {
