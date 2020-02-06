@@ -762,7 +762,7 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
   fill: rgba(var(--BG-member-rightclick-name)) !important;
 }
 #app-mount .members-1998pB .member-3-YXUe.selected-aXhQR6 .botTag-2WPJ74 {
-  background: #fff !important;
+  background: #00FF00 !important;
   color: rgba(var(--BG-gradient-one), 0) !important;
   border-color: transparent !important;
 }
