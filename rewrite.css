@@ -386,7 +386,7 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
 #app-mount .wrapper-1Rf91z .guildIconUnavailable-5PMHDN, #app-mount .wrapper-1Rf91z .guildsError-b7zR5H {
   opacity: 0.5;
   border: none;
-  background: linear-gradient(var(--BG-gradient-direction), rgba(var(--BG-gradient-one), 1) 20%, rgba(var(--BG-gradient-two), 1));
+  background: #FF0000;
   transition: 0.1s ease;
 }
 #app-mount .wrapper-1Rf91z .guildIconUnavailable-5PMHDN:hover, #app-mount .wrapper-1Rf91z .guildsError-b7zR5H:hover {
