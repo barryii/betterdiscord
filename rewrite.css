@@ -371,7 +371,7 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
   transition: 0.2s ease !important;
 }
 #app-mount .wrapper-1Rf91z .circleIconButton-jET_ig svg path {
-  fill: #FF0000 !important;
+  fill: #00FF00 !important;
 }
 #app-mount .wrapper-1Rf91z .circleIconButton-jET_ig.selected-ugP_am {
   background: #FF0000;
