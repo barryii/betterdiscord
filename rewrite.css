@@ -440,7 +440,7 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
 }
 /*可能是左邊尚未點選成員名單時背景的顏色*/
 #app-mount .sidebar-2K8pFh .channel-2QD9_O:not(.selected-1HYmZZ) .name-2WpE7M {
-  color: rgba(255, 255, 255, 1);
+  color: rgba(0, 0, 0, 1);
 }
 #app-mount .sidebar-2K8pFh .bar-30k2ka,
 #app-mount .sidebar-2K8pFh .channel-2QD9_O.selected-1HYmZZ a {
