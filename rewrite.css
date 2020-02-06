@@ -741,7 +741,7 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
   background: transparent;
 }
 #app-mount .members-1998pB .botTagRegular-2HEhHi {
-  background: linear-gradient(var(--BG-gradient-direction), rgba(var(--BG-gradient-one), 1) 20%, rgba(var(--BG-gradient-two), 1));
+  background: #00FF00;
 }
 #app-mount .members-1998pB .layout-2DM8Md {
   background: transparent;
