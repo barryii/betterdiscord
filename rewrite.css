@@ -373,8 +373,9 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
 #app-mount .wrapper-1Rf91z .circleIconButton-jET_ig svg path {
   fill: #00FF00 !important;
 }
+/*左下角新增和搜尋伺服器滑鼠點下去後的背景顏色*/
 #app-mount .wrapper-1Rf91z .circleIconButton-jET_ig.selected-ugP_am {
-  background: #FF0000;
+  background: rgba(var(--BG-leftunder-addandsearchclick-background));
 }
 /*左下角新增和搜尋伺服器滑鼠經過時的背景顏色*/
 #app-mount .wrapper-1Rf91z .circleIconButton-jET_ig:hover {
