@@ -311,7 +311,7 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
   border-color: #fff !important;
 }
 #app-mount .radioGroup-1GBvlr .item-26Dhrx[style*="background-color: rgb(114, 137, 218);"] {
-  background: linear-gradient(var(--BG-gradient-direction), rgba(var(--BG-gradient-one), 1) 20%, rgba(var(--BG-gradient-two), 1)) !important;
+  background: #FF0000 !important;
 }
 #app-mount .radioGroup-1GBvlr .item-26Dhrx:not([style*=background-color]) {
   background: rgba(0, 0, 0, 0.3);
