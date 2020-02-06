@@ -745,8 +745,9 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
   background: linear-gradient(var(--BG-gradient-direction), rgba(var(--BG-gradient-one), 1) 20%, rgba(var(--BG-gradient-two), 1));
 }
 #app-mount .members-1998pB .layout-2DM8Md {
-  background: transparent;
+  background: #00FF00;
 }
+/*應該是機器人這三個字的字樣*/
 #app-mount .members-1998pB .member-3-YXUe .botTag-2WPJ74 {
   font-weight: normal;
 }
