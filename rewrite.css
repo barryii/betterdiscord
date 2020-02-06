@@ -747,7 +747,7 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
   background: transparent;
 }
 #app-mount .members-1998pB .member-3-YXUe .botTag-2WPJ74 {
-  font-weight: bold;
+  font-weight: normal;
 }
 /*右邊成員名單滑鼠經過時背景顏色*/
 #app-mount .members-1998pB .member-3-YXUe:hover {
