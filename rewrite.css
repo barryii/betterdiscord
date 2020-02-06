@@ -238,6 +238,7 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
 #app-mount .downloadProgress-3lBtPV .circleProgress-1EBmVn, #app-mount .downloadProgressCircle-3_wgim .circleProgress-1EBmVn {
   stroke: #fff;
 }
+/*選取時顏色*/
 #app-mount ::selection {
   background: rgba(var(--BG-select));
   color: var(--BG-select-background) !important;
