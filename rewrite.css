@@ -378,7 +378,7 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
 }
 /*測試過不知道是什麼*/
 #app-mount .wrapper-1Rf91z .circleIconButton-jET_ig:hover {
-  background: linear-gradient(var(--BG-gradient-direction), rgba(var(--BG-gradient-one), 1) 20%, rgba(var(--BG-gradient-two), 1));
+  background: #00FF00;
 }
 #app-mount .wrapper-1Rf91z .circleIconButton-jET_ig:hover svg path {
   fill: #fff !important;
