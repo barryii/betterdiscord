@@ -1618,7 +1618,7 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
 /*右鍵時背景顏色*/
 #app-mount .contextMenu-HLZMGh {
   background: var(--BG-image-set) center/cover fixed;
-  box-shadow: inset 0 0 0 300px rgba(var(--BG-rightmousebutton-background), var(--BG-rightmousebutton-background-brightness));
+  box-shadow: inset 0 0 0 300px rgba(var(--BG-rightmousebutton-background));
 }
 #app-mount .contextMenu-HLZMGh .itemGroup-1tL0uz {
   border-top-color: rgba(255, 255, 255, 0.1);
