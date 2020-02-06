@@ -239,8 +239,8 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
   stroke: #fff;
 }
 #app-mount ::selection {
-  background: #FF0000;
-  color: #fff !important;
+  background: rgba(var(--BG-select));
+  color: var(--BG-select-background) !important;
 }
 #app-mount .callAvatarBorder-1D_KaE.video-3GgX2M.selected-2esnyn:not(.speaking-oCqYMI):not(.soundsharing-102bS9) {
   box-shadow: inset 0 0 0 2px rgba(var(--BG-gradient-one), 1);
