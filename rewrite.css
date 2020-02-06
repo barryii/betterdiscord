@@ -405,13 +405,13 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
   background: transparent;
 }
 #app-mount .sidebar-2K8pFh .clickable-23RaYz:hover .content-3xS9Lh {
-  background: rgba(255, 255, 255, 0.05);
+  background: rgba(255, 255, 255, 0.5);
 }
 #app-mount .sidebar-2K8pFh .clickable-23RaYz.selected-3TGCSZ .content-3xS9Lh {
-  background: linear-gradient(var(--BG-gradient-direction), rgba(var(--BG-gradient-one), 1) 20%, rgba(var(--BG-gradient-two), 1));
+  background: rgba(0, 0, 0, 0.5);;
 }
 #app-mount .sidebar-2K8pFh .clickable-23RaYz.selected-3TGCSZ .content-3xS9Lh .username-lm8y6T {
-  color: #F40004 !important;
+  color: rgba(--BG-member-leftclickword, --BG-member-leftclickword-brightness) !important;
 }
 #app-mount .sidebar-2K8pFh .moreUsers-7v8yWY {
   background: linear-gradient(var(--BG-gradient-direction), rgba(var(--BG-gradient-one), 1) 20%, rgba(var(--BG-gradient-two), 1));
