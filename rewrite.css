@@ -366,8 +366,9 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
 #app-mount .wrapper-1Rf91z .acronym-2mOFsV {
   background: rgba(0, 0, 0, 0.3);
 }
+/*左下角新增和搜尋伺服器的顏色*/
 #app-mount .wrapper-1Rf91z .circleIconButton-jET_ig {
-  background: rgba(0, 0, 0, 0.3);
+  background: rgba(var(--BG-leftunder-addandsearch));
   transition: 0.2s ease !important;
 }
 /*左下角新增和搜尋伺服器中間的顏色*/
@@ -385,11 +386,11 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
 #app-mount .wrapper-1Rf91z .circleIconButton-jET_ig:hover svg path {
   fill: #fff !important;
 }
-/*左下角新增和搜尋伺服器顏色*/
+/*左下角新增和搜尋伺服器顏色???*/
 #app-mount .wrapper-1Rf91z .guildIconUnavailable-5PMHDN, #app-mount .wrapper-1Rf91z .guildsError-b7zR5H {
   opacity: 0.5;
   border: none;
-  background: rgba(var(--BG-leftunder-addandsearch));
+  background: #FF0000;
   transition: 0.1s ease;
 }
 #app-mount .wrapper-1Rf91z .guildIconUnavailable-5PMHDN:hover, #app-mount .wrapper-1Rf91z .guildsError-b7zR5H:hover {
