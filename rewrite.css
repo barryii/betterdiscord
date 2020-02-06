@@ -374,7 +374,7 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
   fill: rgba(var(--BG-gradient-one), 1) !important;
 }
 #app-mount .wrapper-1Rf91z .circleIconButton-jET_ig.selected-ugP_am {
-  background: transparent;
+  background: #000;
 }
 /*測試過不知道是什麼*/
 #app-mount .wrapper-1Rf91z .circleIconButton-jET_ig:hover {
