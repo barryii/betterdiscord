@@ -310,8 +310,9 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
 #app-mount .radioGroup-1GBvlr .item-26Dhrx .checkbox-1ix_J3 {
   border-color: #fff !important;
 }
+/*測試過不知道是什麼*/
 #app-mount .radioGroup-1GBvlr .item-26Dhrx[style*="background-color: rgb(114, 137, 218);"] {
-  background: #FF0000 !important;
+  background: linear-gradient(var(--BG-gradient-direction), rgba(var(--BG-gradient-one), 1) 20%, rgba(var(--BG-gradient-two), 1)) !important;
 }
 #app-mount .radioGroup-1GBvlr .item-26Dhrx:not([style*=background-color]) {
   background: rgba(0, 0, 0, 0.3);
