@@ -777,7 +777,7 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
   color: rgba(var(--BG-member-withoutrole-name));
 }
 
-/*整個搜尋結果的背景顏色*/
+/*整個搜尋結果的背景顏色(但怪怪的)*/
 #app-mount .searchResultsWrap-2DKFzt {
   background: rgba(0, 0, 0, 0.2));
 }
@@ -786,7 +786,7 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
   background: rgba(0, 0, 0, 0.2);
 }
 #app-mount .searchResultsWrap-2DKFzt .channelName-1QajIf {
-  background: transparent;
+  background: rgba(0, 192, 255, 0.2);
 }
 #app-mount .searchResultsWrap-2DKFzt .channelSeparator-1X1FuH:before {
   content: none;
