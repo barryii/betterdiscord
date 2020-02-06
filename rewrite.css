@@ -417,7 +417,7 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
 }
 /*左邊尚未點選成員名單時背景的顏色*/
 #app-mount .sidebar-2K8pFh .clickable-23RaYz:hover .content-3xS9Lh {
-  background: rgba(var(--BG-member-before-leftclick-background));
+  background: rgba(var(--BG-member-hover-leftclick-background));
 }
 /*左邊點選成員名單時背景的顏色*/
 #app-mount .sidebar-2K8pFh .clickable-23RaYz.selected-3TGCSZ .content-3xS9Lh {
