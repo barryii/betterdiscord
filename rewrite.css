@@ -404,12 +404,15 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
 #app-mount .sidebar-2K8pFh .searchBar-6Kv8R2 .container-2XeR5Z {
   background: transparent;
 }
+/*左邊尚未點選成員名單時背景的顏色*/
 #app-mount .sidebar-2K8pFh .clickable-23RaYz:hover .content-3xS9Lh {
   background: rgba(var(--BG-member-before-leftclick-background), var(--BG-member-before-leftclick-background-brightness));
 }
+/*左邊點選成員名單時背景的顏色*/
 #app-mount .sidebar-2K8pFh .clickable-23RaYz.selected-3TGCSZ .content-3xS9Lh {
   background: rgba(var(--BG-member-leftclick-background), var(--BG-member-leftclick-background-brightness));
 }
+/*左邊點選成員名單時字的顏色*/
 #app-mount .sidebar-2K8pFh .clickable-23RaYz.selected-3TGCSZ .content-3xS9Lh .username-lm8y6T {
   color: rgba(var(--BG-member-leftclickword), var(--BG-member-leftclickword-brightness)) !important;
 }
@@ -436,7 +439,7 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
   color: #fff;
 }
 #app-mount .sidebar-2K8pFh .channel-2QD9_O:not(.selected-1HYmZZ) .name-2WpE7M {
-  color: rgba(255, 255, 255, 0.5);
+  color: rgba(255, 255, 255, 1);
 }
 #app-mount .sidebar-2K8pFh .bar-30k2ka,
 #app-mount .sidebar-2K8pFh .channel-2QD9_O.selected-1HYmZZ a {
