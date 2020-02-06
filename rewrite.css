@@ -415,17 +415,17 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
 #app-mount .sidebar-2K8pFh .searchBar-6Kv8R2 .container-2XeR5Z {
   background: transparent;
 }
-/*左邊尚未點選成員名單時背景的顏色*/
+/*左邊語音頻道滑鼠經過時的成員背景顏色*/
 #app-mount .sidebar-2K8pFh .clickable-23RaYz:hover .content-3xS9Lh {
   background: rgba(var(--BG-member-hover-leftclick-background));
 }
-/*左邊點選成員名單時背景的顏色*/
+/*左邊語音頻道滑點選成員的背景顏色*/
 #app-mount .sidebar-2K8pFh .clickable-23RaYz.selected-3TGCSZ .content-3xS9Lh {
   background: rgba(var(--BG-member-leftclick-background));
 }
-/*左邊點選成員名單時字的顏色*/
+/*左邊語音頻道滑點選成員的名字顏色*/
 #app-mount .sidebar-2K8pFh .clickable-23RaYz.selected-3TGCSZ .content-3xS9Lh .username-lm8y6T {
-  color: rgba(var(--BG-member-leftclickword)) !important;
+  color: rgba(var(--BG-member-leftclickword-name)) !important;
 }
 #app-mount .sidebar-2K8pFh .moreUsers-7v8yWY {
   background: linear-gradient(var(--BG-gradient-direction), rgba(var(--BG-gradient-one), 1) 20%, rgba(var(--BG-gradient-two), 1));
