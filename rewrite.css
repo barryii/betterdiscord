@@ -239,7 +239,7 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
   stroke: #fff;
 }
 #app-mount ::selection {
-  background: rgba(var(--BG-gradient-two), 1);
+  background: #FF0000;
   color: #fff !important;
 }
 #app-mount .callAvatarBorder-1D_KaE.video-3GgX2M.selected-2esnyn:not(.speaking-oCqYMI):not(.soundsharing-102bS9) {
