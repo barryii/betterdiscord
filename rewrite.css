@@ -738,7 +738,7 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
   background: rgba(255, 255, 255, 0.1);
 }
 #app-mount .members-1998pB .member-3-YXUe.selected-aXhQR6 {
-  background: rgba(255, 255, 255, var(--BG-member-brightness));
+  background: rgba(var(--BG-member-rightclick), var(--BG-member-rightclick-brightness));
 }
 #app-mount .members-1998pB .member-3-YXUe.selected-aXhQR6 .roleColor-rz2vM0, #app-mount .members-1998pB .member-3-YXUe.selected-aXhQR6 .text-zpzAjW {
   color: #fff !important;
