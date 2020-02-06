@@ -744,8 +744,9 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
 #app-mount .members-1998pB .botTagRegular-2HEhHi {
   background: linear-gradient(var(--BG-gradient-direction), rgba(var(--BG-gradient-one), 1) 20%, rgba(var(--BG-gradient-two), 1));
 }
+/*右邊成員名單的背景*/
 #app-mount .members-1998pB .layout-2DM8Md {
-  background: #00FF00;
+  background: transparent;
 }
 /*應該是機器人這三個字的字樣*/
 #app-mount .members-1998pB .member-3-YXUe .botTag-2WPJ74 {
