@@ -811,11 +811,13 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
   background: rgba(0, 0, 0, 0.5);
   overflow: hidden;
 }
+/*不知道有什麼用*/
 #app-mount .searchResultsWrap-2DKFzt .searchResult-3pzFAB code {
-  background: rgba(0, 192, 255, 0.5);
+  background: rgba(0, 0, 0, 0.5);
 }
+/*"跳到"鍵*/
 #app-mount .searchResultsWrap-2DKFzt .jumpButton-Ia2hRJ {
-  background: linear-gradient(var(--BG-gradient-direction), rgba(var(--BG-gradient-one), 1), rgba(var(--BG-gradient-two), 1));
+  background: rgba(0, 192, 255, 0.5);
 }
 /*搜尋結果下的重點的背景顏色*/
 #app-mount .searchResultsWrap-2DKFzt .embedInner-1-fpTo, #app-mount .searchResultsWrap-2DKFzt .searchResultMessage-2VxO12.hit-NLlWXA {
