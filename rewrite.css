@@ -527,9 +527,11 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
 #app-mount .sidebar-2K8pFh .container-PNkimc .containerDefault-1ZnADq:hover .content-3at_AU {
   background: rgba(255, 255, 255, 0.1);
 }
+/*選取的文字頻道的背景顏色*/
 #app-mount .sidebar-2K8pFh .container-PNkimc .containerDefault-1ZnADq.selected-37j_iU .content-3at_AU {
   background: linear-gradient(var(--BG-gradient-direction), rgba(var(--BG-gradient-one), 1) 20%, rgba(var(--BG-gradient-two), 1));
 }
+/*選取的文字頻道的svg跟名字*/
 #app-mount .sidebar-2K8pFh .container-PNkimc .containerDefault-1ZnADq.selected-37j_iU .content-3at_AU .name-3_Dsmg,
 #app-mount .sidebar-2K8pFh .container-PNkimc .containerDefault-1ZnADq.selected-37j_iU .content-3at_AU svg {
   color: #fff;
