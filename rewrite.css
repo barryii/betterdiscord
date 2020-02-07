@@ -511,7 +511,7 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
   font-weight: 400;
 }
 #app-mount .sidebar-2K8pFh .container-PNkimc .containerDefault-1ZnADq .wrapper-1ucjTd:not(.modeMuted-3osy7j).modeUnread-1zpFdA .unread-3zKkbm {
-  background: #fff;
+  background: #00FF00;
 }
 #app-mount .sidebar-2K8pFh .container-PNkimc .containerDefault-1ZnADq .wrapper-1ucjTd:not(.modeMuted-3osy7j).modeUnread-1zpFdA .content-3at_AU {
   background: rgba(255, 255, 255, 1);
