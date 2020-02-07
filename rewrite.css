@@ -465,7 +465,7 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
   background: linear-gradient(var(--BG-gradient-direction), rgba(var(--BG-gradient-one), 1) 20%, rgba(var(--BG-gradient-two), 1));
 }
 #app-mount .sidebar-2K8pFh .container-PNkimc {
-  background: transparent;
+  background: rgba(0, 192, 255, 1);
 }
 #app-mount .sidebar-2K8pFh .container-PNkimc .header-2o-2hj {
   box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
