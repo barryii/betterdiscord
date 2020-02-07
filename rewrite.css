@@ -473,8 +473,9 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
   box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
   background: transparent !important;
 }
+/*伺服器橫幅的背景顏色*/
 #app-mount .sidebar-2K8pFh .container-PNkimc .header-2o-2hj.withBanner-3j8ruM {
-  background: rgba(0, 192, 255, 0.5);
+  background: transparent;
 }
 #app-mount .sidebar-2K8pFh .container-PNkimc div[style="width: 100%; height: 84px; visibility: hidden;"] {
   height: 120px !important;
@@ -485,7 +486,7 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
 }
 #app-mount .sidebar-2K8pFh .container-PNkimc .containerDefault-3GGEv_ .wrapper-CU3qI5 .icon-WnO6o2,
 #app-mount .sidebar-2K8pFh .container-PNkimc .containerDefault-3GGEv_ .wrapper-CU3qI5 .name-IbjUBS {
-  color: #fff;
+  color: #FF0000;
   opacity: 0.4;
 }
 #app-mount .sidebar-2K8pFh .container-PNkimc .containerDefault-3GGEv_ .wrapper-CU3qI5:hover .icon-WnO6o2,
