@@ -447,11 +447,12 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
 #app-mount .sidebar-2K8pFh .channel-2QD9_O:hover a {
   background: rgba(255, 255, 255, 0.1);
 }
+/*不知道有什麼用*/
 #app-mount .sidebar-2K8pFh .channel-2QD9_O:hover a .name-2WpE7M {
-  color: rgba(255, 0, 0, 0.1);
+  color: #fff;
 }
 #app-mount .sidebar-2K8pFh .channel-2QD9_O.selected-1HYmZZ .linkButtonIcon-Mlm5d6 {
-  color: #fff;
+  color: rgba(0, 192, 255, 1);
 }
 /*可能是左邊尚未點選成員名單時背景的顏色*/
 #app-mount .sidebar-2K8pFh .channel-2QD9_O:not(.selected-1HYmZZ) .name-2WpE7M {
