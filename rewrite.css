@@ -800,13 +800,14 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
   border: none;
   background: rgba(0, 0, 0, 0.5);
 }
+/*不知道有什麼用*/
 #app-mount .searchResultsWrap-2DKFzt .searchResult-3pzFAB pre {
-  background: rgba(0, 192, 255, 0.5);
+  background: rgba(0, 0, 0, 0.5);
   border: none;
   overflow: hidden;
 }
 #app-mount .searchResultsWrap-2DKFzt .searchResult-3pzFAB pre code {
-  background: transparent;
+  background: rgba(0, 192, 255, 0.5);
   overflow: hidden;
 }
 #app-mount .searchResultsWrap-2DKFzt .searchResult-3pzFAB code {
