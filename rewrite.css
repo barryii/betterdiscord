@@ -510,8 +510,9 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
   color: rgba(255, 255, 255, 1);
   font-weight: 400;
 }
+/*未讀訊息前面的半圓箭頭背景顏色*/
 #app-mount .sidebar-2K8pFh .container-PNkimc .containerDefault-1ZnADq .wrapper-1ucjTd:not(.modeMuted-3osy7j).modeUnread-1zpFdA .unread-3zKkbm {
-  background: #00FF00;
+  background: #fff;
 }
 /*未讀訊息背景顏色*/
 #app-mount .sidebar-2K8pFh .container-PNkimc .containerDefault-1ZnADq .wrapper-1ucjTd:not(.modeMuted-3osy7j).modeUnread-1zpFdA .content-3at_AU {
