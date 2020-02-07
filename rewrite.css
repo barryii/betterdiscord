@@ -806,12 +806,13 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
   border: none;
   overflow: hidden;
 }
+/*不知道有什麼用*/
 #app-mount .searchResultsWrap-2DKFzt .searchResult-3pzFAB pre code {
-  background: rgba(0, 192, 255, 0.5);
+  background: rgba(0, 0, 0, 0.5);
   overflow: hidden;
 }
 #app-mount .searchResultsWrap-2DKFzt .searchResult-3pzFAB code {
-  background: rgba(0, 0, 0, 0.5);
+  background: rgba(0, 192, 255, 0.5);
 }
 #app-mount .searchResultsWrap-2DKFzt .jumpButton-Ia2hRJ {
   background: linear-gradient(var(--BG-gradient-direction), rgba(var(--BG-gradient-one), 1), rgba(var(--BG-gradient-two), 1));
