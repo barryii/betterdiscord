@@ -541,12 +541,12 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
   color: #fff;
 }
 #app-mount .sidebar-2K8pFh .container-PNkimc .userLimit-64AFxe .wrapper-pZmgj4 .users-i_3-kL {
-  background: rgba(255, 255, 255, 0.1);
+  background: rgba(255, 0, 0, 0.1);
   padding: 0 5px;
   width: auto;
 }
 #app-mount .sidebar-2K8pFh .container-PNkimc .userLimit-64AFxe .wrapper-pZmgj4 .total-3tKGEB {
-  background: rgba(255, 255, 255, 0.2);
+  background: rgba(255, 0, 0, 0.2);
   padding: 0 5px;
   width: auto;
 }
