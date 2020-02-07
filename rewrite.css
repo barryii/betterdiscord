@@ -441,13 +441,14 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
 }
 /*不知道有什麼用*/
 #app-mount .sidebar-2K8pFh .channel-2QD9_O {
-  color: #fff;
+  color: #fff
+/*不知道有什麼用*/;
 }
 #app-mount .sidebar-2K8pFh .channel-2QD9_O:hover a {
-  background: rgba(255, 0, 0, 0.1);
+  background: rgba(255, 255, 255, 0.1);
 }
 #app-mount .sidebar-2K8pFh .channel-2QD9_O:hover a .name-2WpE7M {
-  color: #fff;
+  color: rgba(255, 0, 0, 0.1);
 }
 #app-mount .sidebar-2K8pFh .channel-2QD9_O.selected-1HYmZZ .linkButtonIcon-Mlm5d6 {
   color: #fff;
