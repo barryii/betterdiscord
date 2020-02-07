@@ -547,13 +547,13 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
 /*語音頻道限制人數前面那個數字*/
 #app-mount .sidebar-2K8pFh .container-PNkimc .userLimit-64AFxe .wrapper-pZmgj4 .users-i_3-kL {
   background: rgba(255, 255, 255, 0.1);
-  padding: 0 5px;
+  padding: 0 15px;
   width: auto;
 }
 /*語音頻道限制人數後面那個數字*/
 #app-mount .sidebar-2K8pFh .container-PNkimc .userLimit-64AFxe .wrapper-pZmgj4 .total-3tKGEB {
   background: rgba(0, 0, 0, 0.2);
-  padding: 0 5px;
+  padding: 0 15px;
   width: auto;
 }
 #app-mount .sidebar-2K8pFh .container-PNkimc .userLimit-64AFxe .wrapper-pZmgj4 .total-3tKGEB:after {
