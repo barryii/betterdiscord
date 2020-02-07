@@ -544,22 +544,19 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
 /*語音頻道限制人數*/
 #app-mount .sidebar-2K8pFh .container-PNkimc .userLimit-64AFxe .wrapper-pZmgj4 {
   color: #fff;
-  background: linear-gradient( 120deg, rgba(255, 0, 0, 0.2) );
-  width: auto;
 }
-/*語音頻道限制人數前面那個數字
+/*語音頻道限制人數前面那個數字*/
 #app-mount .sidebar-2K8pFh .container-PNkimc .userLimit-64AFxe .wrapper-pZmgj4 .users-i_3-kL {
-  background: rgba(255, 255, 255, 0.2);
-  background: linear-gradient(-100deg);
+  background: linear-gradient( 120deg, rgba(255, 0, 0, 0.2) );
   padding: 0 5px;
   width: auto;
 }
-/*語音頻道限制人數後面那個數字
+/*語音頻道限制人數後面那個數字*/
 #app-mount .sidebar-2K8pFh .container-PNkimc .userLimit-64AFxe .wrapper-pZmgj4 .total-3tKGEB {
   background: rgba(0, 0, 0, 0.2);
   padding: 0 5px;
   width: auto;
-}*/
+}
 #app-mount .sidebar-2K8pFh .container-PNkimc .userLimit-64AFxe .wrapper-pZmgj4 .total-3tKGEB:after {
   content: none;
 }
