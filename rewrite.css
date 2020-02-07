@@ -817,7 +817,7 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
 }
 /*搜尋結果的"跳到"鍵的背景顏色*/
 #app-mount .searchResultsWrap-2DKFzt .jumpButton-Ia2hRJ {
-  background: rgba(0, 0, 0, 0.5);
+  background: rgba(255, 255, 255, 0.5);
 }
 /*搜尋結果下的重點的背景顏色*/
 #app-mount .searchResultsWrap-2DKFzt .embedInner-1-fpTo, #app-mount .searchResultsWrap-2DKFzt .searchResultMessage-2VxO12.hit-NLlWXA {
