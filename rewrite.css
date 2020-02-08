@@ -564,16 +564,18 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
 #app-mount .sidebar-2K8pFh .privateChannels-1nO12o {
   background: transparent;
 }
-/*好友區私人訊息字樣*/
+/*好友區"私人訊息"字樣*/
 #app-mount .sidebar-2K8pFh .privateChannels-1nO12o header {
   opacity: 0.5;
 }
+/*左下角使用者*/
 #app-mount .sidebar-2K8pFh .panels-j1Uci_ {
   position: relative;
-  background: rgba(0, 192, 255, 0.5);
+  background: transparent;
 }
 #app-mount .sidebar-2K8pFh .panels-j1Uci_ .container-1giJp5 {
   border: none;
+  background: rgba(0, 192, 255, 0.5);
 }
 #app-mount .sidebar-2K8pFh .panels-j1Uci_ .container-3baos1 {
   border: none;
