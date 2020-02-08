@@ -591,6 +591,10 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
   position: relative;
   z-index: 1;
 }
+/*聊天區和成員名單區*/
+#app-mount .chat-3bRxxu:hover .content-yTz4x3 {
+  background: rgba(0, 0, 0, 0.3);
+}
 /*不知道有什麼用*/
 #app-mount .chat-3bRxxu .welcomeMessage-3_Mcht h1 {
   background: linear-gradient(to right, rgba(var(--BG-gradient-one), 1) 0%, rgba(var(--BG-gradient-two), 1) 100%);
