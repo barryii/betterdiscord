@@ -565,7 +565,8 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
   background: transparent;
 }
 #app-mount .sidebar-2K8pFh .privateChannels-1nO12o header {
-  opacity: 1;
+  background: rgb(0, 192, 255);
+  opacity: 0.5;
 }
 #app-mount .sidebar-2K8pFh .panels-j1Uci_ {
   position: relative;
