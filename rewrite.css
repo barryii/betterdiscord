@@ -583,11 +583,11 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
 }
 
 #app-mount .chat-3bRxxu {
-  background: relative;
+  background: rgba( 255, 0, 0, 0.5);
 }
 #app-mount .chat-3bRxxu .content-yTz4x3 {
   background: transparent;
-  position: rgba( 0, 192, 255, 0.5);
+  position: relative;
   z-index: 1;
 }
 #app-mount .chat-3bRxxu .welcomeMessage-3_Mcht h1 {
