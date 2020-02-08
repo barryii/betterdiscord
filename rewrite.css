@@ -433,7 +433,7 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
 }
 /*點進去伺服器後左上角的官方標誌背景顏色*/
 #app-mount .sidebar-2K8pFh .flowerStar-1GeTsn path {
-  fill: rgba(100, 130, 255, 1);
+  fill: rgba(114, 137, 218, 1);
 }
 /*不知道有什麼用*/
 #app-mount .sidebar-2K8pFh .premiumGuildIconGem-C4yUDR {
@@ -617,7 +617,7 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
 }
 /*不知道有什麼用*/
 #app-mount .chat-3bRxxu .reaction-1ELvT8.reactionMe-23mbRf .reactionCount-2ddRoS {
-  color: rgba(100, 130, 255, 1);
+  color: rgba(114, 137, 218, 1);
 }
 #app-mount .chat-3bRxxu .isMentioned-N-h9aa {
   background: rgba(0, 255, 0, 0.5) !important;
@@ -779,7 +779,6 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
   border: none;
   padding: 5px 18px;
 }
-
 /*不知道是什麼*/
 #app-mount .members-1998pB {
   background: transparent;
@@ -819,7 +818,6 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
 #app-mount .members-1998pB .activity-2Gy-9S {
   color: rgba(var(--BG-member-withoutrole-name));
 }
-
 /*整個搜尋結果的背景顏色*/
 #app-mount .searchResultsWrap-2DKFzt {
   background: rgba(0, 0, 0, 0.2);
