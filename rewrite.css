@@ -571,7 +571,7 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
 /*左下角使用者+語音已連線+直播*/
 #app-mount .sidebar-2K8pFh .panels-j1Uci_ {
   position: relative;
-  opacity: 0.2;
+  background: rgba( 0, 0, 0, 0.2)
 }
 /*語音已連線+直播*/
 #app-mount .sidebar-2K8pFh .panels-j1Uci_ .container-1giJp5 {
