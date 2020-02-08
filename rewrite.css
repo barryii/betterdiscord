@@ -599,11 +599,12 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
   line-height: 18px;
   text-shadow: none !important;
 }
+/*不知道有什麼用*/
 #app-mount .chat-3bRxxu .welcomeMessage-3_Mcht p {
-  color: #FF0000;
+  color: #fff;
 }
 #app-mount .chat-3bRxxu .reaction-1ELvT8 {
-  background: rgba(255, 255, 255, 0.1);
+  background: rgba(0, 192, 255, 0.5);
 }
 #app-mount .chat-3bRxxu .reaction-1ELvT8.reactionMe-23mbRf {
   background: rgba(255, 255, 255, 0.2);
