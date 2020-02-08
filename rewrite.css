@@ -603,7 +603,7 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
 #app-mount .chat-3bRxxu .welcomeMessage-3_Mcht p {
   color: #fff;
 }
-/*對文字發言加入反映*/
+/*對文字發言加入反應*/
 #app-mount .chat-3bRxxu .reaction-1ELvT8 {
   background: rgba(255, 255, 255, 0.1);
 }
@@ -611,7 +611,7 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
   background: rgba(255, 0, 0, 0.5);
 }
 #app-mount .chat-3bRxxu .reaction-1ELvT8.reactionMe-23mbRf .reactionCount-2ddRoS {
-  color: #fff;
+  color: rgba(0, 255, 0, 0.5);
 }
 #app-mount .chat-3bRxxu .isMentioned-N-h9aa {
   background: linear-gradient(var(--BG-gradient-direction), rgba(var(--BG-gradient-one), 0.3), rgba(var(--BG-gradient-two), 0.3)) !important;
