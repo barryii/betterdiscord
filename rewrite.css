@@ -568,20 +568,18 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
 #app-mount .sidebar-2K8pFh .privateChannels-1nO12o header {
   opacity: 0.5;
 }
-/*左下角使用者*/
+/*直播*/
 #app-mount .sidebar-2K8pFh .panels-j1Uci_ {
   position: relative;
-  background: rgba(0, 255, 0, 0.5);
 }
-/*語音連線下方狀態欄*/
+/*語音已連線+直播*/
 #app-mount .sidebar-2K8pFh .panels-j1Uci_ .container-1giJp5 {
   border: none;
   background: rgba(255, 0, 0, 0.5);
 }
-/*左下角使用者+語音連線下方狀態欄*/
+/*左下角使用者+語音已連線*/
 #app-mount .sidebar-2K8pFh .panels-j1Uci_ .container-3baos1 {
   border: none;
-  background: rgba(0, 0, 255, 0.5);
 }
 
 #app-mount .chat-3bRxxu {
