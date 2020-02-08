@@ -591,15 +591,16 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
   position: relative;
   z-index: 1;
 }
+/*不知道有什麼用*/
 #app-mount .chat-3bRxxu .welcomeMessage-3_Mcht h1 {
   background: linear-gradient(to right, rgba(var(--BG-gradient-one), 1) 0%, rgba(var(--BG-gradient-two), 1) 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   line-height: 18px;
-  text-shadow: rgba(255,255,255,0.5) !important;
+  text-shadow: none !important;
 }
 #app-mount .chat-3bRxxu .welcomeMessage-3_Mcht p {
-  color: #fff;
+  color: #FF0000;
 }
 #app-mount .chat-3bRxxu .reaction-1ELvT8 {
   background: rgba(255, 255, 255, 0.1);
