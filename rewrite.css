@@ -616,7 +616,7 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
   color: #fff;
 }
 #app-mount .chat-3bRxxu .isMentioned-N-h9aa {
-  background: rgba(255, 255, 255, 0.5) !important;
+  background: rgba(255, 0, 0, 0.5) !important;
 }
 #app-mount .chat-3bRxxu .isMentioned-N-h9aa:after {
   background: transparent;
