@@ -632,11 +632,10 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
   font-weight: bold;
 }
 #app-mount .chat-3bRxxu .wrapper-3t9DeA {
-  background: rgba(255, 0, 0, 0.5);
   user-select: none;
 }
 #app-mount .chat-3bRxxu blockquote {
-  border-color: rgba(var(--BG-gradient-one), 1);
+  border-color: rgba(255, 0, 0, 1);
   background: rgba(0, 0, 0, 0.3);
   padding: 8px 8px 8px 12px;
 }
