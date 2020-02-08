@@ -613,7 +613,7 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
 }
 /*不知道有什麼用*/
 #app-mount .chat-3bRxxu .reaction-1ELvT8.reactionMe-23mbRf .reactionCount-2ddRoS {
-  color: #fff;
+  color: rgba(100, 130, 255, 1);
 }
 #app-mount .chat-3bRxxu .isMentioned-N-h9aa {
   background: rgba(255, 255, 255, 0.5) !important;
