@@ -613,14 +613,14 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
 }
 /*不知道有什麼用*/
 #app-mount .chat-3bRxxu .reaction-1ELvT8.reactionMe-23mbRf .reactionCount-2ddRoS {
-  color: rgba(114, 137, 218, 1);
+  color: #fff;
 }
 #app-mount .chat-3bRxxu .isMentioned-N-h9aa {
-  background: rgba(0, 255, 0, 0.5) !important;
+  background: rgba(255, 255, 255, 0.5) !important;
 }
 #app-mount .chat-3bRxxu .isMentioned-N-h9aa:after {
   background: transparent;
-  border-color: rgba(255, 0, 0, 1);
+  border-color: rgba(var(--BG-gradient-one), 1);
 }
 #app-mount .chat-3bRxxu .isLocalBot-38G0P0 {
   border: none;
@@ -628,7 +628,7 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
   background: rgba(0, 0, 0, 0.3);
 }
 #app-mount .chat-3bRxxu .isLocalBot-38G0P0 .anchor-3Z-8Bb {
-  color: rgba(var(--BG-gradient-one), 1);
+  color: rgba(114, 137, 218, 1);
   font-weight: bold;
 }
 #app-mount .chat-3bRxxu .wrapper-3t9DeA {
