@@ -605,7 +605,7 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
 }
 /*對文字發言加入反應*/
 #app-mount .chat-3bRxxu .reaction-1ELvT8 {
-  background: rgba(255, 255, 255, 0.1);
+  background: rgba(255, 255, 255, 0.2);
 }
 /*不知道有什麼用*/
 #app-mount .chat-3bRxxu .reaction-1ELvT8.reactionMe-23mbRf {
@@ -615,8 +615,9 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
 #app-mount .chat-3bRxxu .reaction-1ELvT8.reactionMe-23mbRf .reactionCount-2ddRoS {
   color: #fff;
 }
+/*不知道有什麼用*/
 #app-mount .chat-3bRxxu .isMentioned-N-h9aa {
-  background: rgba(255, 0, 0, 0.5) !important;
+  background: rgba(255, 255, 255, 0.5) !important;
 }
 #app-mount .chat-3bRxxu .isMentioned-N-h9aa:after {
   background: transparent;
