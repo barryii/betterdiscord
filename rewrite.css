@@ -410,7 +410,7 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
 #app-mount .wrapper-1Rf91z .guildIconUnavailable-5PMHDN,
 #app-mount .wrapper-1Rf91z .guildsError-b7zR5H {
   opacity: 0.5;
-  border: #F00;
+  border-color: #F04747;
   background: rgb(0, 0, 0);
   transition: 0.1s ease;
 }
