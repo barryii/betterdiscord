@@ -646,7 +646,7 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
   background: rgba(255, 0, 0, 0.3);
   padding: 8px 8px 8px 12px;
 }
-/*標記時+機器人字樣*/
+/*機器人字樣*/
 #app-mount .chat-3bRxxu .botTagRegular-2HEhHi:not(.TRE-tag),
 #app-mount .chat-3bRxxu .hasMore-3e72_v button,
 #app-mount .chat-3bRxxu .wrapper-3WhCwL {
@@ -657,6 +657,7 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
   border: none !important;
   font-weight: 600 !important;
 }
+/*被標記時*/
 #app-mount .chat-3bRxxu .mention {
   background: transparent !important;
   border-radius: 3px;
@@ -669,7 +670,8 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
   background: rgba(255, 0, 0, 0.5) !important;
 }
 #app-mount .chat-3bRxxu .actionRed-gYn8D3,
-#app-mount .chat-3bRxxu .jumpToPresentBar-9P20AM, #app-mount .chat-3bRxxu .newMessagesBar-mujexs {
+#app-mount .chat-3bRxxu .jumpToPresentBar-9P20AM,
+#app-mount .chat-3bRxxu .newMessagesBar-mujexs {
   background: linear-gradient(var(--BG-gradient-direction), rgba(var(--BG-gradient-one), 1) 20%, rgba(var(--BG-gradient-two), 1));
 }
 #app-mount .chat-3bRxxu .operations-36ENbA > a {
@@ -2110,7 +2112,9 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
 #app-mount .root-SR8cQa > div {
   position: relative;
 }
-#app-mount .root-SR8cQa .botTag-2WPJ74, #app-mount .root-SR8cQa .lookFilled-1Gx00P.colorGreen-29iAKY, #app-mount .root-SR8cQa .topSectionSpotify-1lI0-P {
+#app-mount .root-SR8cQa .botTag-2WPJ74,
+#app-mount .root-SR8cQa .lookFilled-1Gx00P.colorGreen-29iAKY,
+#app-mount .root-SR8cQa .topSectionSpotify-1lI0-P {
   background: linear-gradient(var(--BG-gradient-direction), rgba(var(--BG-gradient-one), 1), rgba(var(--BG-gradient-two), 1));
 }
 #app-mount .root-SR8cQa .lookInverted-2D7oAl.colorGreen-29iAKY {
