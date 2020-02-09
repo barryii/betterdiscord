@@ -643,7 +643,7 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
 /*不知道有什麼用*/
 #app-mount .chat-3bRxxu blockquote {
   border-color: rgba(var(--BG-gradient-one), 1);
-  background: rgba(0, 0, 0, 0.3);
+  background: rgba(255, 0, 0, 0.3);
   padding: 8px 8px 8px 12px;
 }
 /*標記時+機器人字樣*/
