@@ -907,7 +907,7 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
   border: none;
   background: rgba(255, 255, 255, 0.3);
 }
-/*搜尋結果下選取重點時周圍的背景顏色*/
+/*搜尋結果下選取重點時展開的背景顏色*/
 #app-mount .searchResultsWrap-2DKFzt .searchResult-3pzFAB.expanded-v2Szsz {
   border: none;
   background: rgba(0, 0, 0, 0.2);
@@ -924,7 +924,7 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
   background: rgba(255, 255, 255, 0.05);
 }
 #app-mount .layer-3QrUeG[aria-label*=SETTINGS] .standardSidebarView-3F1I7i .themed-OHr7kt.selected-3s45Ha.item-PXvHYJ {
-  background: rgba(114, 137, 218, 0.5);
+  background: rgba(255, 255, 255, 0.15);
 }
 #app-mount .layer-3QrUeG[aria-label*=SETTINGS] .standardSidebarView-3F1I7i .auditLog-3jNbM6 {
   border: none;
@@ -993,7 +993,7 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
 #app-mount .layer-3QrUeG[aria-label*=SETTINGS] .standardSidebarView-3F1I7i .contentRegion-3nDuYy .selected-mKYnfr.option-n0icdO,
 #app-mount .layer-3QrUeG[aria-label*=SETTINGS] .standardSidebarView-3F1I7i .contentRegion-3nDuYy .slider-1PF9SW .barFill-23-gu-,
 #app-mount .layer-3QrUeG[aria-label*=SETTINGS] .standardSidebarView-3F1I7i .contentRegion-3nDuYy .userInfoViewingButton-2-jbH9 {
-  background: rgba(114, 137, 218, 1);
+  background: rgba(0, 255, 0, 1);
 }
 #app-mount .layer-3QrUeG[aria-label*=SETTINGS] .standardSidebarView-3F1I7i .contentRegion-3nDuYy .guildGraphicContainer-39I_Pl,
 #app-mount .layer-3QrUeG[aria-label*=SETTINGS] .standardSidebarView-3F1I7i .contentRegion-3nDuYy .header-1NFI81 {
