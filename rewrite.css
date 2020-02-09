@@ -644,8 +644,9 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
   background: rgba(0, 0, 0, 0.3);
   padding: 8px 8px 8px 12px;
 }
+/*標記時+機器人字樣*/
 #app-mount .chat-3bRxxu .botTagRegular-2HEhHi:not(.TRE-tag), #app-mount .chat-3bRxxu .hasMore-3e72_v button, #app-mount .chat-3bRxxu .mention, #app-mount .chat-3bRxxu .wrapper-3WhCwL {
-  background: rgba(255, 0, 0, 0.5) !important;
+  background: transparent !important;
   border-radius: 3px;
   padding: 0 2px;
   color: #fff !important;
