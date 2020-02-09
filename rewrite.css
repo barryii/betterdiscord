@@ -654,7 +654,7 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
   font-weight: 600 !important;
 }
 #app-mount .chat-3bRxxu .akaBadge-1M-1Gw {
-  background: linear-gradient(var(--BG-gradient-direction), rgba(var(--BG-gradient-one), 1), rgba(var(--BG-gradient-two), 1)) !important;
+  background: rgba(255, 0, 0, 0.5) !important;
 }
 #app-mount .chat-3bRxxu .actionRed-gYn8D3, #app-mount .chat-3bRxxu .jumpToPresentBar-9P20AM, #app-mount .chat-3bRxxu .newMessagesBar-mujexs {
   background: linear-gradient(var(--BG-gradient-direction), rgba(var(--BG-gradient-one), 1) 20%, rgba(var(--BG-gradient-two), 1));
