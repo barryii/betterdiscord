@@ -643,7 +643,7 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
 /*使用"> "進行縮排時的背景*/
 #app-mount .chat-3bRxxu blockquote {
   background: transparent;
-  padding: 8px 8px 8px 12px;
+  padding: 0px 0px 0px 0px;
 }
 /*機器人字樣*/
 #app-mount .chat-3bRxxu .botTagRegular-2HEhHi:not(.TRE-tag),
