@@ -658,7 +658,7 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
 }
 /*被標記時*/
 #app-mount .chat-3bRxxu .mention {
-  background: transparent !important;
+  background: rgba(114, 137, 218, 0.1) !important;
   border-radius: 3px;
   padding: 0 2px;
   color: rgba(114, 137, 218, 1) !important;
