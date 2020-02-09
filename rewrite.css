@@ -2466,7 +2466,7 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
 #app-mount .tooltipBlack-PPG47z,
 #app-mount .tooltipBrand-g03Nz8,
 #app-mount .tooltipRed-8-9NeP {
-  background: linear-gradient(var(--BG-gradient-direction), rgba(var(--BG-gradient-one), 1) 20%, rgba(var(--BG-gradient-two), 1));
+  background: #000;
   color: #fff;
 }
 #app-mount .tooltipBlack-PPG47z {
