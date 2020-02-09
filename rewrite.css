@@ -659,7 +659,7 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
   background: transparent !important;
   border-radius: 3px;
   padding: 0 2px;
-  color: rgba(114, 137, 218, 1) !important;
+  color: #fff;
   border: none !important;
   font-weight: 600 !important;
 }
