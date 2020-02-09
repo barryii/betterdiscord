@@ -829,7 +829,7 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
 }
 /*右邊成員名單點選時機器人字樣顏色*/
 #app-mount .members-1998pB .member-3-YXUe.selected-aXhQR6 .botTag-2WPJ74 {
-  background: transparent !important;*/
+  background: transparent !important;
   fill: rgba(var(--BG-member-bot-rightclick-name)) !important;
   color: rgba(var(--BG-gradient-one), 0) !important;
   border-color: transparent !important;
