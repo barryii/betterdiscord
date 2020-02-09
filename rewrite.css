@@ -964,7 +964,7 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
   background: rgba(255, 255, 255, 0.1);
 }
 #app-mount .layer-3QrUeG[aria-label*=SETTINGS] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .item-PXvHYJ.selected-3s45Ha {
-  background: rgba(255, 255, 255, 0.2);
+  background: rgba(114, 137, 218, 1);
 }
 #app-mount .layer-3QrUeG[aria-label*=SETTINGS] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .ui-tab-bar-item.selected {
   background: rgba(255, 255, 255, 0.2);
@@ -986,6 +986,7 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
 #app-mount .layer-3QrUeG[aria-label*=SETTINGS] .standardSidebarView-3F1I7i .contentRegion-3nDuYy .recording-1H2dS7 .button-34kXw5 .text-2sI5Sd {
   color: #f04747 !important;
 }
+/*BANDAGED BD 裡的左邊選取背景、左右滑的按鈕*/
 #app-mount .layer-3QrUeG[aria-label*=SETTINGS] .standardSidebarView-3F1I7i .contentRegion-3nDuYy #bd-settingspane-container .ui-switch-item .ui-switch-wrapper .ui-switch.checked,
 #app-mount .layer-3QrUeG[aria-label*=SETTINGS] .standardSidebarView-3F1I7i .contentRegion-3nDuYy .button-38aScr.lookFilled-1Gx00P,
 #app-mount .layer-3QrUeG[aria-label*=SETTINGS] .standardSidebarView-3F1I7i .contentRegion-3nDuYy .defaultIndicator-2X8Auf,
