@@ -826,13 +826,13 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
 #app-mount .members-1998pB .member-3-YXUe.selected-aXhQR6 .text-zpzAjW {
   fill: rgba(var(--BG-member-rightclick-name)) !important;
 }
-/*右邊成員名單點選時機器人三個字的標籤*/
+/*右邊成員名單點選時機器人三個字的標籤
 #app-mount .members-1998pB .member-3-YXUe.selected-aXhQR6 .botTag-2WPJ74 {
   background: transparent !important;
   fill: rgba(var(--BG-member-bot-rightclick-name)) !important;
   color: rgba(var(--BG-gradient-one), 0) !important;
   border-color: transparent !important;
-}
+}*/
 /*右邊成員名單下面的狀態*/
 #app-mount .members-1998pB .activity-2Gy-9S {
   color: rgba(var(--BG-member-state));
