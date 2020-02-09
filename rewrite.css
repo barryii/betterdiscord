@@ -853,7 +853,8 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
 #app-mount .searchResultsWrap-2DKFzt .channelSeparator-1X1FuH:before {
   content: none;
 }
-#app-mount .searchResultsWrap-2DKFzt .searchResult-3pzFAB:after, #app-mount .searchResultsWrap-2DKFzt .searchResult-3pzFAB:before {
+#app-mount .searchResultsWrap-2DKFzt .searchResult-3pzFAB:after,
+#app-mount .searchResultsWrap-2DKFzt .searchResult-3pzFAB:before {
   content: none;
 }
 /*不知道有什麼用*/
@@ -881,7 +882,8 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
   background: rgba(255, 255, 255, 0.5);
 }
 /*搜尋結果下的重點的背景顏色*/
-#app-mount .searchResultsWrap-2DKFzt .embedInner-1-fpTo, #app-mount .searchResultsWrap-2DKFzt .searchResultMessage-2VxO12.hit-NLlWXA {
+#app-mount .searchResultsWrap-2DKFzt .embedInner-1-fpTo,
+#app-mount .searchResultsWrap-2DKFzt .searchResultMessage-2VxO12.hit-NLlWXA {
   box-shadow: none;
   border: none;
   background: rgba(255, 255, 255, 0.3);
