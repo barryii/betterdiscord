@@ -644,8 +644,18 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
   background: rgba(0, 0, 0, 0.3);
   padding: 8px 8px 8px 12px;
 }
+#app-mount .chat-3bRxxu .mention {
+  background: transparent !important;
+  border-radius: 3px;
+  padding: 0 2px;
+  color: rgba(114, 137, 218, 1) !important;
+  border: none !important;
+  font-weight: 600 !important;
+}
 /*標記時+機器人字樣*/
-#app-mount .chat-3bRxxu .botTagRegular-2HEhHi:not(.TRE-tag), #app-mount .chat-3bRxxu .hasMore-3e72_v button, #app-mount .chat-3bRxxu .mention, #app-mount .chat-3bRxxu .wrapper-3WhCwL {
+#app-mount .chat-3bRxxu .botTagRegular-2HEhHi:not(.TRE-tag),
+#app-mount .chat-3bRxxu .hasMore-3e72_v button,
+#app-mount .chat-3bRxxu .wrapper-3WhCwL {
   background: transparent !important;
   border-radius: 3px;
   padding: 0 2px;
@@ -656,7 +666,8 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
 #app-mount .chat-3bRxxu .akaBadge-1M-1Gw {
   background: rgba(255, 0, 0, 0.5) !important;
 }
-#app-mount .chat-3bRxxu .actionRed-gYn8D3, #app-mount .chat-3bRxxu .jumpToPresentBar-9P20AM, #app-mount .chat-3bRxxu .newMessagesBar-mujexs {
+#app-mount .chat-3bRxxu .actionRed-gYn8D3,
+#app-mount .chat-3bRxxu .jumpToPresentBar-9P20AM, #app-mount .chat-3bRxxu .newMessagesBar-mujexs {
   background: linear-gradient(var(--BG-gradient-direction), rgba(var(--BG-gradient-one), 1) 20%, rgba(var(--BG-gradient-two), 1));
 }
 #app-mount .chat-3bRxxu .operations-36ENbA > a {
@@ -670,7 +681,8 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
 #app-mount .chat-3bRxxu .messagesWrapper-3lZDfY .divider-3gKybi:not(.dividerRed-MKoLlr) .dividerContent-2L12VI {
   color: rgba(255, 255, 255, 0.6);
 }
-#app-mount .chat-3bRxxu .messagesWrapper-3lZDfY .divider-3gKybi:not(.dividerRed-MKoLlr) .dividerContent-2L12VI:after, #app-mount .chat-3bRxxu .messagesWrapper-3lZDfY .divider-3gKybi:not(.dividerRed-MKoLlr) .dividerContent-2L12VI:before {
+#app-mount .chat-3bRxxu .messagesWrapper-3lZDfY .divider-3gKybi:not(.dividerRed-MKoLlr) .dividerContent-2L12VI:after,
+#app-mount .chat-3bRxxu .messagesWrapper-3lZDfY .divider-3gKybi:not(.dividerRed-MKoLlr) .dividerContent-2L12VI:before {
   border-color: rgba(255, 255, 255, 0.1);
 }
 #app-mount .chat-3bRxxu .messagesWrapper-3lZDfY .buttonContainer-37UsAw [role=button] {
@@ -714,7 +726,8 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
 #app-mount .chat-3bRxxu .messagesWrapper-3lZDfY .embedFull-2tM8-- {
   background: rgba(0, 0, 0, 0.3);
 }
-#app-mount .chat-3bRxxu .messagesWrapper-3lZDfY .embedFull-2tM8-- .embedFooterSeparator-3klTIQ, #app-mount .chat-3bRxxu .messagesWrapper-3lZDfY .embedFull-2tM8-- .embedFooterText-28V_Wb {
+#app-mount .chat-3bRxxu .messagesWrapper-3lZDfY .embedFull-2tM8-- .embedFooterSeparator-3klTIQ,
+#app-mount .chat-3bRxxu .messagesWrapper-3lZDfY .embedFull-2tM8-- .embedFooterText-28V_Wb {
   color: #fff;
 }
 #app-mount .chat-3bRxxu .messagesWrapper-3lZDfY .embedFull-2tM8-- .embedFieldName-NFrena {
