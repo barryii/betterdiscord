@@ -328,7 +328,9 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
   height: 100% !important;
 }
 /*左上角的discord圖案顏色*/
-#app-mount .wrapper-1Rf91z .button-OhfaWu, #app-mount .wrapper-1Rf91z .childWrapper-anI2G9, #app-mount .wrapper-1Rf91z .mention-1f5kbO {
+#app-mount .wrapper-1Rf91z .button-OhfaWu,
+#app-mount .wrapper-1Rf91z .childWrapper-anI2G9,
+#app-mount .wrapper-1Rf91z .mention-1f5kbO {
   background: rgba(var(--BG-lefttop-discordpattern));
 }
 #app-mount .wrapper-1Rf91z .listItem-2P_4kh:first-child {
@@ -648,7 +650,7 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
 #app-mount .chat-3bRxxu .botTagRegular-2HEhHi:not(.TRE-tag),
 #app-mount .chat-3bRxxu .hasMore-3e72_v button,
 #app-mount .chat-3bRxxu .wrapper-3WhCwL {
-  background: transparent !important;
+  background: rgba(114, 137, 218, 1) !important;
   border-radius: 3px;
   padding: 0 2px;
   color: #fff !important;
