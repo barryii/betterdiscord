@@ -823,12 +823,13 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
   background: rgba(var(--BG-member-rightclick-background));
 }
 /*右邊點選成員名單時名字顏色*/
-#app-mount .members-1998pB .member-3-YXUe.selected-aXhQR6 .roleColor-rz2vM0, #app-mount .members-1998pB .member-3-YXUe.selected-aXhQR6 .text-zpzAjW {
+#app-mount .members-1998pB .member-3-YXUe.selected-aXhQR6 .roleColor-rz2vM0,
+#app-mount .members-1998pB .member-3-YXUe.selected-aXhQR6 .text-zpzAjW {
   fill: rgba(var(--BG-member-rightclick-name)) !important;
 }
 /*右邊成員名單點選時機器人字樣顏色*/
 #app-mount .members-1998pB .member-3-YXUe.selected-aXhQR6 .botTag-2WPJ74 {
-  /*background: #00FF00 !important;*/
+  background: transparent !important;*/
   fill: rgba(var(--BG-member-bot-rightclick-name)) !important;
   color: rgba(var(--BG-gradient-one), 0) !important;
   border-color: transparent !important;
