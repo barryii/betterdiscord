@@ -824,7 +824,7 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
 }
 /*不知道是什麼*/
 #app-mount .members-1998pB .botTagRegular-2HEhHi {
-  background: rgba(0, 255, 0, 1);
+  background: linear-gradient(var(--BG-gradient-direction), rgba(var(--BG-gradient-one), 1) 20%, rgba(var(--BG-gradient-two), 1);
 }
 /*右邊成員名單的背景*/
 #app-mount .members-1998pB .layout-2DM8Md {
