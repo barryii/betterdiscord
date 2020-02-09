@@ -652,7 +652,7 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
 #app-mount .chat-3bRxxu .wrapper-3WhCwL {
   background: rgba(114, 137, 218, 1) !important;
   border-radius: 3px;
-  padding: 0 2px;
+  padding: 2 4px;
   color: #fff !important;
   border: none !important;
   font-weight: 600 !important;
