@@ -905,7 +905,7 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
   background: rgba(255, 255, 255, 0.05);
 }
 #app-mount .layer-3QrUeG[aria-label*=SETTINGS] .standardSidebarView-3F1I7i .themed-OHr7kt.selected-3s45Ha.item-PXvHYJ {
-  background: rgba(255, 255, 255, 0.15);
+  background: rgba(114, 137, 218, 0.5);
 }
 #app-mount .layer-3QrUeG[aria-label*=SETTINGS] .standardSidebarView-3F1I7i .auditLog-3jNbM6 {
   border: none;
@@ -1005,11 +1005,13 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
 #app-mount .layer-3QrUeG[aria-label*=SETTINGS] .standardSidebarView-3F1I7i .contentRegion-3nDuYy .lookLink-9FtZy-.colorBrand-3pXr91:hover .contents-18-Yxp {
   background: transparent;
 }
-#app-mount .layer-3QrUeG[aria-label*=SETTINGS] .standardSidebarView-3F1I7i .contentRegion-3nDuYy .bda-slist li, #app-mount .layer-3QrUeG[aria-label*=SETTINGS] .standardSidebarView-3F1I7i .contentRegion-3nDuYy .container-2XeR5Z {
+#app-mount .layer-3QrUeG[aria-label*=SETTINGS] .standardSidebarView-3F1I7i .contentRegion-3nDuYy .bda-slist li,
+#app-mount .layer-3QrUeG[aria-label*=SETTINGS] .standardSidebarView-3F1I7i .contentRegion-3nDuYy .container-2XeR5Z {
   border: none;
   background: rgba(0, 0, 0, 0.3);
 }
-#app-mount .layer-3QrUeG[aria-label*=SETTINGS] .standardSidebarView-3F1I7i .contentRegion-3nDuYy .bda-footer, #app-mount .layer-3QrUeG[aria-label*=SETTINGS] .standardSidebarView-3F1I7i .contentRegion-3nDuYy .bda-slist .bda-header {
+#app-mount .layer-3QrUeG[aria-label*=SETTINGS] .standardSidebarView-3F1I7i .contentRegion-3nDuYy .bda-footer,
+#app-mount .layer-3QrUeG[aria-label*=SETTINGS] .standardSidebarView-3F1I7i .contentRegion-3nDuYy .bda-slist .bda-header {
   border-color: rgba(255, 255, 255, 0.1);
 }
 #app-mount .layer-3QrUeG[aria-label*=SETTINGS] .standardSidebarView-3F1I7i .contentRegion-3nDuYy .subscriptionDetails-16jcwU .tier1-1ttHRY.banner-3Kac2g {
@@ -1031,7 +1033,9 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
   max-width: 100%;
   box-sizing: border-box;
 }
-#app-mount .layer-3QrUeG[aria-label*=SETTINGS] .standardSidebarView-3F1I7i .contentRegion-3nDuYy .removeGame-2JFGPn, #app-mount .layer-3QrUeG[aria-label*=SETTINGS] .standardSidebarView-3F1I7i .contentRegion-3nDuYy .removeWebhook-3PNViU, #app-mount .layer-3QrUeG[aria-label*=SETTINGS] .standardSidebarView-3F1I7i .contentRegion-3nDuYy .restoreButton-22-SIW {
+#app-mount .layer-3QrUeG[aria-label*=SETTINGS] .standardSidebarView-3F1I7i .contentRegion-3nDuYy .removeGame-2JFGPn,
+#app-mount .layer-3QrUeG[aria-label*=SETTINGS] .standardSidebarView-3F1I7i .contentRegion-3nDuYy .removeWebhook-3PNViU,
+#app-mount .layer-3QrUeG[aria-label*=SETTINGS] .standardSidebarView-3F1I7i .contentRegion-3nDuYy .restoreButton-22-SIW {
   box-shadow: none;
   background-color: rgba(0, 0, 0, 0.3);
 }
