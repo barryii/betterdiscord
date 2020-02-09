@@ -747,10 +747,12 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
   border: none;
   background: rgba(0, 0, 0, 0.3);
 }
-#app-mount .chat-3bRxxu .messagesWrapper-3lZDfY .wrapper-35wsBm.userSelectNone-Iy6XEP.cursorDefault-331ZcI .guildName-2hvnt_, #app-mount .chat-3bRxxu .messagesWrapper-3lZDfY .wrapper-35wsBm.userSelectNone-Iy6XEP.cursorDefault-331ZcI .h5-18_1nd {
+#app-mount .chat-3bRxxu .messagesWrapper-3lZDfY .wrapper-35wsBm.userSelectNone-Iy6XEP.cursorDefault-331ZcI .guildName-2hvnt_,
+#app-mount .chat-3bRxxu .messagesWrapper-3lZDfY .wrapper-35wsBm.userSelectNone-Iy6XEP.cursorDefault-331ZcI .h5-18_1nd {
   color: #fff;
 }
-#app-mount .chat-3bRxxu .messagesWrapper-3lZDfY .wrapper-35wsBm.userSelectNone-Iy6XEP.cursorDefault-331ZcI .onlineCount-w6_WmG, #app-mount .chat-3bRxxu .messagesWrapper-3lZDfY .wrapper-35wsBm.userSelectNone-Iy6XEP.cursorDefault-331ZcI span {
+#app-mount .chat-3bRxxu .messagesWrapper-3lZDfY .wrapper-35wsBm.userSelectNone-Iy6XEP.cursorDefault-331ZcI .onlineCount-w6_WmG,
+#app-mount .chat-3bRxxu .messagesWrapper-3lZDfY .wrapper-35wsBm.userSelectNone-Iy6XEP.cursorDefault-331ZcI span {
   color: #aaa;
 }
 #app-mount .chat-3bRxxu .messagesWrapper-3lZDfY .textAreaEdit-bNLDk3 {
@@ -1184,7 +1186,7 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
 }
 /*左下角新增的字*/
 #app-mount .layer-3QrUeG[aria-label*=SETTINGS] .standardSidebarView-3F1I7i .info-1VyQPT .colorMuted-HdFt4q.size12-3cLvbJ:last-child:after {
-  content: "Frosted Glass v1.0.0 by Gibbu";
+  content: "Customized by Barryii";
   position: absolute;
   left: 0;
   top: 18px;
