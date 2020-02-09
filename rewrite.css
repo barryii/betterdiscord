@@ -684,8 +684,9 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
   border: none !important;
   font-weight: 600 !important;
 }
+/**/
 #app-mount .chat-3bRxxu .akaBadge-1M-1Gw {
-  background: rgba(255, 0, 0, 0.5) !important;
+  background: rgba(0, 255, 0, 0.5) !important;
 }
 #app-mount .chat-3bRxxu .actionRed-gYn8D3,
 #app-mount .chat-3bRxxu .jumpToPresentBar-9P20AM,
