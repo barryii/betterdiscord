@@ -454,9 +454,9 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
   background: linear-gradient(var(--BG-gradient-direction), rgba(var(--BG-gradient-one), 1) 20%, rgba(var(--BG-gradient-two), 1));
   color: #fff;
 }
-/*點進去伺服器後左上角的官方標誌背景顏色*/
+/*點進去伺服器後左上角的官方標誌*/
 #app-mount .sidebar-2K8pFh .flowerStar-1GeTsn path {
-  fill: rgba(114, 137, 218, 1);
+  fill: rgba(var(--BG-insideserver-lefttop-officalicon));
 }
 /*不知道有什麼用*/
 #app-mount .sidebar-2K8pFh .premiumGuildIconGem-C4yUDR {
