@@ -518,11 +518,8 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
 #app-mount .sidebar-2K8pFh .container-PNkimc .containerDefault-3GGEv_ .wrapper-CU3qI5:hover .name-IbjUBS {
   opacity: 1;
 }
-/*被靜音的文字頻道的svg*/
-#app-mount .sidebar-2K8pFh .container-PNkimc .containerDefault-1ZnADq .modeMuted-3osy7j svg {
-  color: rgba(255, 255, 255, 0.2);
-}
-/*被靜音的文字頻道的名字*/
+/*被靜音的文字頻道的svg跟名字*/
+#app-mount .sidebar-2K8pFh .container-PNkimc .containerDefault-1ZnADq .modeMuted-3osy7j svg,
 #app-mount .sidebar-2K8pFh .container-PNkimc .containerDefault-1ZnADq .modeMuted-3osy7j .name-3_Dsmg {
   color: rgba(255, 255, 255, 0.2);
   font-weight: 400;
@@ -545,7 +542,7 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
 #app-mount .sidebar-2K8pFh .container-PNkimc .containerDefault-1ZnADq .wrapper-1ucjTd:not(.modeMuted-3osy7j).modeUnread-1zpFdA:hover .content-3at_AU {
   background: rgba(255, 255, 255, 0.1);
 }
-/*未讀訊息的svg跟名字*/
+/*文字頻道未讀訊息的svg跟名字*/
 #app-mount .sidebar-2K8pFh .container-PNkimc .containerDefault-1ZnADq .wrapper-1ucjTd:not(.modeMuted-3osy7j).modeUnread-1zpFdA .content-3at_AU .name-3_Dsmg,
 #app-mount .sidebar-2K8pFh .container-PNkimc .containerDefault-1ZnADq .wrapper-1ucjTd:not(.modeMuted-3osy7j).modeUnread-1zpFdA .content-3at_AU svg {
   color: #fff;
@@ -870,7 +867,7 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
 }
 /*搜尋結果的頻道名稱的背景顏色*/
 #app-mount .searchResultsWrap-2DKFzt .channelName-1QajIf {
-  background: rgba(0, 0, 0, 0);
+  background: transparent;
 }
 #app-mount .searchResultsWrap-2DKFzt .channelSeparator-1X1FuH:before {
   content: none;
@@ -892,7 +889,7 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
 }
 /*不知道有什麼用*/
 #app-mount .searchResultsWrap-2DKFzt .searchResult-3pzFAB pre code {
-  background: rgba(0, 0, 0, 0.5);
+  background: transparent;
   overflow: hidden;
 }
 /*不知道有什麼用*/
@@ -996,7 +993,7 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
 #app-mount .layer-3QrUeG[aria-label*=SETTINGS] .standardSidebarView-3F1I7i .contentRegion-3nDuYy .questionMark-CWEQZn,
 #app-mount .layer-3QrUeG[aria-label*=SETTINGS] .standardSidebarView-3F1I7i .contentRegion-3nDuYy .selected-mKYnfr.option-n0icdO,
 #app-mount .layer-3QrUeG[aria-label*=SETTINGS] .standardSidebarView-3F1I7i .contentRegion-3nDuYy .userInfoViewingButton-2-jbH9 {
-  background: rgba(114, 137, 218, 1);
+  background: linear-gradient(var(--BG-gradient-direction), rgba(var(--BG-gradient-one), 1) 20%, rgba(var(--BG-gradient-two), 1));
 }
 /*設定裡的滑桿*/
 #app-mount .layer-3QrUeG[aria-label*=SETTINGS] .standardSidebarView-3F1I7i .contentRegion-3nDuYy .slider-1PF9SW .barFill-23-gu- {
