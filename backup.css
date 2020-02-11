@@ -387,7 +387,7 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
 }
 /*左下角新增和搜尋伺服器的顏色*/
 #app-mount .wrapper-1Rf91z .circleIconButton-jET_ig {
-  background: rgba(var(--BG-leftunder-addandsearch));
+  background: rgba(var(--BG-leftbottom-addandsearch));
   transition: 0.2s ease !important;
 }
 /*左下角新增和搜尋伺服器中間的顏色*/
