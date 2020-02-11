@@ -440,7 +440,7 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
 }
 /*左邊語音頻道滑鼠經過時的成員背景顏色*/
 #app-mount .sidebar-2K8pFh .clickable-23RaYz:hover .content-3xS9Lh {
-  background: rgba(var(--BG-member-hover-voichchannel-leftclick-background));
+  background: rgba(var(--BG-left-voicechannel-member-hover-background));
 }
 /*左邊語音頻道點選成員的背景顏色*/
 #app-mount .sidebar-2K8pFh .clickable-23RaYz.selected-3TGCSZ .content-3xS9Lh {
