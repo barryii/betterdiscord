@@ -399,8 +399,9 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
 #app-mount .wrapper-1Rf91z .circleIconButton-jET_ig:hover {
   background: rgba(var(--BG-leftbottom-addandsearch-hover-background));
 }
+/*左下角新增和搜尋伺服器滑鼠經過時的svg*/
 #app-mount .wrapper-1Rf91z .circleIconButton-jET_ig:hover svg path {
-  fill: #fff !important;
+  fill: rgba(var(--BG-leftbottom-addandsearch-hover-svg)) !important;
 }
 #app-mount .wrapper-1Rf91z .guildIconUnavailable-5PMHDN,
 #app-mount .wrapper-1Rf91z .guildsError-b7zR5H {
