@@ -387,8 +387,9 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
   background: rgba(var(--BG-leftbottom-addandsearch));
   transition: 0.2s ease !important;
 }
+/*左下角新增和搜尋伺服器的svg*/
 #app-mount .wrapper-1Rf91z .circleIconButton-jET_ig svg path {
-  fill: rgba(var(--BG-gradient-one), 1) !important;
+  fill: rgba(var(--BG-leftbottom-addandsearch-svg)) !important;
 }
 #app-mount .wrapper-1Rf91z .circleIconButton-jET_ig.selected-ugP_am {
   background: transparent;
