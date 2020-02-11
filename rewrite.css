@@ -382,8 +382,9 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
 #app-mount .wrapper-1Rf91z .acronym-2mOFsV {
   background: rgba(0, 0, 0, 0.3);
 }
+/*左下角新增和搜尋伺服器的顏色*/
 #app-mount .wrapper-1Rf91z .circleIconButton-jET_ig {
-  background: rgba(0, 0, 0, 0.3);
+  background: rgba(var(--BG-leftbottom-addandsearch));
   transition: 0.2s ease !important;
 }
 #app-mount .wrapper-1Rf91z .circleIconButton-jET_ig svg path {
