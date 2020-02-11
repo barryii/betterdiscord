@@ -404,7 +404,7 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
 }
 /*左下角新增和搜尋伺服器滑鼠經過時的svg*/
 #app-mount .wrapper-1Rf91z .circleIconButton-jET_ig:hover svg path {
-  fill: #fff !important;
+  fill: rgba(var(--BG-leftbottom-addandsearch-hover-svg)) !important;
 }
 /*左下角的警告(不是隨時都有)*/
 #app-mount .wrapper-1Rf91z .guildIconUnavailable-5PMHDN,
