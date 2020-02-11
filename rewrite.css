@@ -252,9 +252,10 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
 #app-mount .downloadProgressCircle-3_wgim .circleProgress-1EBmVn {
   stroke: #fff;
 }
+/*選取時顏色(反藍)*/
 #app-mount ::selection {
-  background: rgba(var(--BG-select));
-  color: rgba(var(--BG-select-background)) !important;
+  background: rgba(var(--BG-highlight));
+  color: rgba(var(--BG-highlighttext)) !important;
 }
 #app-mount .callAvatarBorder-1D_KaE.video-3GgX2M.selected-2esnyn:not(.speaking-oCqYMI):not(.soundsharing-102bS9) {
   box-shadow: inset 0 0 0 2px rgba(var(--BG-gradient-one), 1);
@@ -340,10 +341,11 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
   position: relative !important;
   height: 100% !important;
 }
+/*左上角的discord圖案*/
 #app-mount .wrapper-1Rf91z .button-OhfaWu,
 #app-mount .wrapper-1Rf91z .childWrapper-anI2G9,
 #app-mount .wrapper-1Rf91z .mention-1f5kbO {
-  background: linear-gradient(var(--BG-gradient-direction), rgba(var(--BG-gradient-one), 1) 20%, rgba(var(--BG-gradient-two), 1));
+  background: rgba(var(--BG-lefttop-discordpattern));
 }
 #app-mount .wrapper-1Rf91z .listItem-2P_4kh:first-child {
   margin-top: 10px;
