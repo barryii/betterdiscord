@@ -489,9 +489,7 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
 #app-mount .sidebar-2K8pFh .container-PNkimc .containerDefault-3GGEv_ .wrapper-CU3qI5:hover .name-IbjUBS {
   opacity: 1;
 }
-#app-mount .sidebar-2K8pFh .container-PNkimc .containerDefault-1ZnADq .modeMuted-3osy7j svg {
-  color: rgba(255, 255, 255, 0.2);
-}
+#app-mount .sidebar-2K8pFh .container-PNkimc .containerDefault-1ZnADq .modeMuted-3osy7j svg,
 #app-mount .sidebar-2K8pFh .container-PNkimc .containerDefault-1ZnADq .modeMuted-3osy7j .name-3_Dsmg {
   color: rgba(255, 255, 255, 0.2);
   font-weight: 400;
