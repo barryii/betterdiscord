@@ -547,11 +547,11 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
 #app-mount .sidebar-2K8pFh .container-PNkimc .containerDefault-1ZnADq .wrapper-1ucjTd:not(.modeMuted-3osy7j).modeUnread-1zpFdA .content-3at_AU svg {
   color: #fff;
 }
-/*滑鼠經過文字頻道時*/
+/*滑鼠經過文字頻道*/
 #app-mount .sidebar-2K8pFh .container-PNkimc .containerDefault-1ZnADq:hover .content-3at_AU {
   background: rgba(255, 255, 255, 0.1);
 }
-/*點選的文字頻道*/
+/*選取的文字頻道*/
 #app-mount .sidebar-2K8pFh .container-PNkimc .containerDefault-1ZnADq.selected-37j_iU .content-3at_AU {
   background: rgba(255, 255, 255, 0.2);
 }
