@@ -834,7 +834,7 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
 }*/
 /*右邊成員名單下面的狀態*/
 #app-mount .members-1998pB .activity-2Gy-9S {
-  color: rgba(var(--BG-right-memberlist-state)) rgba(255, 255, 255, 0.8);
+  color: rgba(var(--BG-right-memberlist-state));
 }
 
 #app-mount .searchResultsWrap-2DKFzt {
