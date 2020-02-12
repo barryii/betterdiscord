@@ -585,13 +585,16 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
 #app-mount .sidebar-2K8pFh .panels-j1Uci_ .container-1giJp5 {
   border: none;
 }
+/*左下角使用者*/
 #app-mount .sidebar-2K8pFh .panels-j1Uci_ .container-3baos1 {
   border: none;
 }
 
+/*聊天區和成員名單區(圖片之下)*/
 #app-mount .chat-3bRxxu {
   background: transparent;
 }
+/*聊天區和成員名單區(圖片之上)*/
 #app-mount .chat-3bRxxu .content-yTz4x3 {
   background: transparent;
   position: relative;
@@ -607,8 +610,9 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
 #app-mount .chat-3bRxxu .welcomeMessage-3_Mcht p {
   color: #fff;
 }
+/*對文字發言加入反應*/
 #app-mount .chat-3bRxxu .reaction-1ELvT8 {
-  background: rgba(255, 255, 255, 0.1);
+  background: rgba(var(--BG-addreaction-text-background));
 }
 #app-mount .chat-3bRxxu .reaction-1ELvT8.reactionMe-23mbRf {
   background: rgba(255, 255, 255, 0.2);
