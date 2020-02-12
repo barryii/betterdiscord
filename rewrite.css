@@ -504,7 +504,7 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
 /*滑鼠經過頻道類別的箭頭icon與名字name*/
 #app-mount .sidebar-2K8pFh .container-PNkimc .containerDefault-3GGEv_ .wrapper-CU3qI5:hover .icon-WnO6o2,
 #app-mount .sidebar-2K8pFh .container-PNkimc .containerDefault-3GGEv_ .wrapper-CU3qI5:hover .name-IbjUBS {
-  opacity: 1;
+  color: rgba(var(--BG-channelcategory-hover-iconandname));
 }
 #app-mount .sidebar-2K8pFh .container-PNkimc .containerDefault-1ZnADq .modeMuted-3osy7j svg,
 #app-mount .sidebar-2K8pFh .container-PNkimc .containerDefault-1ZnADq .modeMuted-3osy7j .name-3_Dsmg {
