@@ -593,7 +593,7 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
   position: relative;
   background: rgba( 0, 0, 0, 0.2); /*原為transparent*/
 }
-/*語音已連線+直播*/
+/*左下角語音已連線+直播*/
 #app-mount .sidebar-2K8pFh .panels-j1Uci_ .container-1giJp5 {
   border: none;
 }
@@ -601,6 +601,7 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
 #app-mount .sidebar-2K8pFh .panels-j1Uci_ .container-3baos1 {
   border: none;
 }
+
 /*聊天區和成員名單區(圖片之下)*/
 #app-mount .chat-3bRxxu {
   background: transparent;
