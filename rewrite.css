@@ -807,10 +807,11 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
 }
 /*右邊成員名單*/
 #app-mount .members-1998pB .layout-2DM8Md {
-  background:  transparent;
+  background: rgba(var(--BG-right-memberlist-background));
 }
+/*右邊成員名單機器人三個字的標籤*/
 #app-mount .members-1998pB .member-3-YXUe .botTag-2WPJ74 {
-  font-weight: bold;
+  font-weight: normal;
 }
 #app-mount .members-1998pB .member-3-YXUe:hover {
   background: rgba(255, 255, 255, 0.1);
