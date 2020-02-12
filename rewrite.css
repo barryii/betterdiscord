@@ -886,7 +886,7 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
 /*搜尋結果下選取重點時展開*/
 #app-mount .searchResultsWrap-2DKFzt .searchResult-3pzFAB.expanded-v2Szsz {
   border: none;
-  background: rgba(0, 0, 0, 0.2);
+  background: rgba(var(--BG-searchresult-aroundresult-background));
 }
 
 #app-mount .layer-3QrUeG[aria-label*=SETTINGS] .standardSidebarView-3F1I7i {
