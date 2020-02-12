@@ -512,6 +512,7 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
   color: rgba(var(--BG-textchannel-mute-svgandname));
   font-weight: 400;
 }
+/*文字頻道的svg跟名字*/
 #app-mount .sidebar-2K8pFh .container-PNkimc .containerDefault-1ZnADq .wrapper-1ucjTd:not(.modeMuted-3osy7j) .name-3_Dsmg,
 #app-mount .sidebar-2K8pFh .container-PNkimc .containerDefault-1ZnADq .wrapper-1ucjTd:not(.modeMuted-3osy7j) svg {
   color: rgba(255, 255, 255, 0.7);
