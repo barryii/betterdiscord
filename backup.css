@@ -580,11 +580,11 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
 #app-mount .sidebar-2K8pFh .container-PNkimc .userLimit-64AFxe .wrapper-pZmgj4 .total-3tKGEB:after {
   content: none;
 }
-/*好友區左邊的背景顏色*/
+/*首頁左邊的背景顏色*/
 #app-mount .sidebar-2K8pFh .privateChannels-1nO12o {
   background: transparent;
 }
-/*好友區"私人訊息"字樣*/
+/*首頁"私人訊息"字樣*/
 #app-mount .sidebar-2K8pFh .privateChannels-1nO12o header {
   opacity: 0.5;
 }
