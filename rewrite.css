@@ -837,16 +837,17 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
   color: rgba(var(--BG-right-memberlist-state));
 }
 
-/*整個搜尋結果的背景顏色*/
+/*整個搜尋結果*/
 #app-mount .searchResultsWrap-2DKFzt {
   background: rgba(var(--BG-searchresult-background));
 }
-/*搜尋結果上方那列的背景顏色*/
+/*搜尋結果上方那列*/
 #app-mount .searchResultsWrap-2DKFzt .searchHeader-1l-wpR {
   background: rgba(var(--BG-searchresult-top-background));
 }
+/*搜尋結果的頻道名稱*/
 #app-mount .searchResultsWrap-2DKFzt .channelName-1QajIf {
-  background: transparent;
+  background: rgba(var(--BG-searchresult-channelname-background));
 }
 #app-mount .searchResultsWrap-2DKFzt .channelSeparator-1X1FuH:before {
   content: none;
@@ -871,15 +872,18 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
 #app-mount .searchResultsWrap-2DKFzt .searchResult-3pzFAB code {
   background: rgba(0, 0, 0, 0.5);
 }
+/*搜尋結果的"跳到"鍵*/
 #app-mount .searchResultsWrap-2DKFzt .jumpButton-Ia2hRJ {
-  background: linear-gradient(var(--BG-gradient-direction), rgba(var(--BG-gradient-one), 1), rgba(var(--BG-gradient-two), 1));
+  background: rgba(var(--BG-searchresult-jumpbutton-background));
 }
+/*搜尋結果下的重點*/
 #app-mount .searchResultsWrap-2DKFzt .embedInner-1-fpTo,
 #app-mount .searchResultsWrap-2DKFzt .searchResultMessage-2VxO12.hit-NLlWXA {
   box-shadow: none;
   border: none;
-  background: rgba(0, 0, 0, 0.3);
+  background: rgba(var(--BG-searchresult-result-background));
 }
+/*搜尋結果下選取重點時展開*/
 #app-mount .searchResultsWrap-2DKFzt .searchResult-3pzFAB.expanded-v2Szsz {
   border: none;
   background: rgba(0, 0, 0, 0.2);
