@@ -485,6 +485,7 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
   box-shadow: 0 0 0px rgba(var(--BG-lefttop-servername));
   background: transparent !important;
 }
+/*伺服器橫幅的背景顏色*/
 #app-mount .sidebar-2K8pFh .container-PNkimc .header-2o-2hj.withBanner-3j8ruM {
   background: transparent;
 }
