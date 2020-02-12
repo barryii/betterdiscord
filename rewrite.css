@@ -817,8 +817,9 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
 #app-mount .members-1998pB .member-3-YXUe:hover {
   background: rgba(var(--BG-right-memberlist-hover-background));
 }
+/*右邊點選成員名單時背景顏色*/
 #app-mount .members-1998pB .member-3-YXUe.selected-aXhQR6 {
-  background: linear-gradient(var(--BG-gradient-direction), rgba(var(--BG-gradient-one), 1) 20%, rgba(var(--BG-gradient-two), 1));
+  background: rgba(var(--BG-right-memberlist-select-background));
 }
 #app-mount .members-1998pB .member-3-YXUe.selected-aXhQR6 .roleColor-rz2vM0,
 #app-mount .members-1998pB .member-3-YXUe.selected-aXhQR6 .text-zpzAjW {
