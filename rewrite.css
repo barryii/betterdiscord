@@ -836,6 +836,10 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
 #app-mount .members-1998pB .activity-2Gy-9S {
   color: var(--BG-right-memberlist-state-color);
 }
+/*滑鼠經過右邊成員名單下面的狀態*/
+#app-mount .members-1998pB-hover .activity-2Gy-9S {
+  color: var(--BG-right-memberlist-state-hover-color);
+}
 
 /*整個搜尋結果*/
 #app-mount .searchResultsWrap-2DKFzt {
