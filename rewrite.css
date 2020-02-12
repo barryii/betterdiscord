@@ -824,7 +824,7 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
 /*右邊點選成員名單時名字顏色*/
 #app-mount .members-1998pB .member-3-YXUe.selected-aXhQR6 .roleColor-rz2vM0,
 #app-mount .members-1998pB .member-3-YXUe.selected-aXhQR6 .text-zpzAjW {
-  fill: var(--BG-right-memberlist-select-name-fill) !important;
+  color: var(--BG-right-memberlist-select-name-fill) !important;
 }
 /*右邊成員名單點選時機器人三個字的標籤
 #app-mount .members-1998pB .member-3-YXUe.selected-aXhQR6 .botTag-2WPJ74 {
