@@ -660,7 +660,7 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
   background: rgba(var(--BG-chatarea-mention-background)) !important;
   border-radius: 3px;
   padding: 0 2px;
-  color: #fff !important;
+  color: rgba(var(--BG-chatarea-mention)) !important;
   border: none !important;
   font-weight: 600 !important;
 }
