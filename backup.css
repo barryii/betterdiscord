@@ -1784,6 +1784,7 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
   fill: rgba(var(--BG-gradient-two), 0.2) !important;
   stroke: rgba(var(--BG-gradient-two), 1) !important;
 }
+
 /*右鍵時背景顏色*/
 #app-mount .contextMenu-HLZMGh {
   background: var(--BG-image-set) center/cover fixed;
