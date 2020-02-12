@@ -530,15 +530,15 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
   color: rgba(255, 255, 255, 0.7);
   font-weight: 400;
 }
-/*未讀訊息前面的半圓箭頭背景顏色*/
+/*未讀訊息前面的半圓箭頭*/
 #app-mount .sidebar-2K8pFh .container-PNkimc .containerDefault-1ZnADq .wrapper-1ucjTd:not(.modeMuted-3osy7j).modeUnread-1zpFdA .unread-3zKkbm {
   background: #fff;
 }
-/*未讀訊息背景顏色*/
+/*未讀的文字頻道*/
 #app-mount .sidebar-2K8pFh .container-PNkimc .containerDefault-1ZnADq .wrapper-1ucjTd:not(.modeMuted-3osy7j).modeUnread-1zpFdA .content-3at_AU {
   background: rgba(255, 255, 255, 0);
 }
-/*滑鼠經過未讀訊息背景顏色*/
+/*滑鼠經過未讀訊息*/
 #app-mount .sidebar-2K8pFh .container-PNkimc .containerDefault-1ZnADq .wrapper-1ucjTd:not(.modeMuted-3osy7j).modeUnread-1zpFdA:hover .content-3at_AU {
   background: rgba(255, 255, 255, 0.1);
 }
@@ -547,11 +547,11 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
 #app-mount .sidebar-2K8pFh .container-PNkimc .containerDefault-1ZnADq .wrapper-1ucjTd:not(.modeMuted-3osy7j).modeUnread-1zpFdA .content-3at_AU svg {
   color: #fff;
 }
-/*滑鼠經過文字頻道時的背景顏色*/
+/*滑鼠經過文字頻道時*/
 #app-mount .sidebar-2K8pFh .container-PNkimc .containerDefault-1ZnADq:hover .content-3at_AU {
   background: rgba(255, 255, 255, 0.1);
 }
-/*選取的文字頻道的背景顏色*/
+/*點選的文字頻道*/
 #app-mount .sidebar-2K8pFh .container-PNkimc .containerDefault-1ZnADq.selected-37j_iU .content-3at_AU {
   background: rgba(255, 255, 255, 0.2);
 }
