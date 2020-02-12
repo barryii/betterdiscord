@@ -506,9 +506,10 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
 #app-mount .sidebar-2K8pFh .container-PNkimc .containerDefault-3GGEv_ .wrapper-CU3qI5:hover .name-IbjUBS {
   color: rgba(var(--BG-channelcategory-hover-iconandname));
 }
+/*被靜音的文字頻道的svg跟名字*/
 #app-mount .sidebar-2K8pFh .container-PNkimc .containerDefault-1ZnADq .modeMuted-3osy7j svg,
 #app-mount .sidebar-2K8pFh .container-PNkimc .containerDefault-1ZnADq .modeMuted-3osy7j .name-3_Dsmg {
-  color: rgba(255, 255, 255, 0.2);
+  color: rgba(var(--BG-textchannel-mute-svgandname));
   font-weight: 400;
 }
 #app-mount .sidebar-2K8pFh .container-PNkimc .containerDefault-1ZnADq .wrapper-1ucjTd:not(.modeMuted-3osy7j) .name-3_Dsmg,
