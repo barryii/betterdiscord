@@ -576,10 +576,12 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
 #app-mount .sidebar-2K8pFh .privateChannels-1nO12o header {
   background: rgba(var(--BG-homepage-personalmessage-typeface-background));
 }
+/*左下角使用者+語音已連線+直播*/
 #app-mount .sidebar-2K8pFh .panels-j1Uci_ {
   position: relative;
-  background: transparent;
+  background: rgba(var(--BG-leftbottom-user-voiceisconnected-live-background));
 }
+/*左下角語音已連線+直播*/
 #app-mount .sidebar-2K8pFh .panels-j1Uci_ .container-1giJp5 {
   border: none;
 }
