@@ -644,12 +644,13 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
   background: rgba(var(--BG-chatarea-use>indent-background));
   padding: 0px 12px;
 }
+/*機器人字樣*/
 #app-mount .chat-3bRxxu .botTagRegular-2HEhHi:not(.TRE-tag),
 #app-mount .chat-3bRxxu .hasMore-3e72_v button,
 #app-mount .chat-3bRxxu .wrapper-3WhCwL {
-  background: linear-gradient(var(--BG-gradient-direction), rgba(var(--BG-gradient-one), 1), rgba(var(--BG-gradient-two), 1)) !important;
+  background: rgba(var(--BG-bot-typeface-background)) !important;
   border-radius: 3px;
-  padding: 0 2px;
+  padding: 2 4px;
   color: #fff !important;
   border: none !important;
   font-weight: 600 !important;
