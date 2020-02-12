@@ -641,7 +641,7 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
 }
 /*使用">"進行縮排時的背景*/
 #app-mount .chat-3bRxxu blockquote {
-  background: var(--BG-chatarea-use>indent-background);
+  background: var(--BG-chatarea-indent-background);
   padding: 0px 12px;
 }
 /*機器人字樣*/
