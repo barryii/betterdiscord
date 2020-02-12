@@ -612,7 +612,7 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
 }
 /*對文字發言加入反應*/
 #app-mount .chat-3bRxxu .reaction-1ELvT8 {
-  background: rgba(var(--BG-addreaction-text-background));
+  background: rgba(var(--BG-textarea-addreaction-text-background));
 }
 #app-mount .chat-3bRxxu .reaction-1ELvT8.reactionMe-23mbRf {
   background: rgba(255, 255, 255, 0.2);
@@ -639,10 +639,10 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
 #app-mount .chat-3bRxxu .wrapper-3t9DeA {
   user-select: none;
 }
+/*使用"> "進行縮排時的背景*/
 #app-mount .chat-3bRxxu blockquote {
-  border-color: rgba(var(--BG-gradient-one), 1);
-  background: rgba(0, 0, 0, 0.3);
-  padding: 8px 8px 8px 12px;
+  background: rgba(var(--BG-chatarea-use>indent-background));
+  padding: 0px 12px;
 }
 #app-mount .chat-3bRxxu .botTagRegular-2HEhHi:not(.TRE-tag),
 #app-mount .chat-3bRxxu .hasMore-3e72_v button,
