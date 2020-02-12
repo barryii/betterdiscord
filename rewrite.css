@@ -447,6 +447,10 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
 #app-mount .sidebar-2K8pFh .clickable-23RaYz.selected-3TGCSZ .content-3xS9Lh .username-lm8y6T {
   color: var(--BG-voicechannel-member-click-name-color) !important;
 }
+/*語音頻道點選成員的名字顏色*/
+#app-mount .sidebar-2K8pFh .clickable-23RaYz .content-3xS9Lh .username-lm8y6T {
+  color: #0F0 !important;
+}
 #app-mount .sidebar-2K8pFh .moreUsers-7v8yWY {
   background: linear-gradient(var(--BG-gradient-direction), rgba(var(--BG-gradient-one), 1) 20%, rgba(var(--BG-gradient-two), 1));
   color: #fff;
