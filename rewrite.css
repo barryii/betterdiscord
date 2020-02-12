@@ -496,11 +496,12 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
   margin-top: 48px;
   -webkit-mask: linear-gradient(rgba(0, 0, 0, 0.9) 60%, rgba(0, 0, 0, 0) 100%) !important;
 }
+/*頻道類別的箭頭icon與名字name*/
 #app-mount .sidebar-2K8pFh .container-PNkimc .containerDefault-3GGEv_ .wrapper-CU3qI5 .icon-WnO6o2,
 #app-mount .sidebar-2K8pFh .container-PNkimc .containerDefault-3GGEv_ .wrapper-CU3qI5 .name-IbjUBS {
-  color: #fff;
-  opacity: 0.4;
+  color: rgba(var(--BG-channelcategory-iconandname));
 }
+/*滑鼠經過頻道類別的箭頭icon與名字name*/
 #app-mount .sidebar-2K8pFh .container-PNkimc .containerDefault-3GGEv_ .wrapper-CU3qI5:hover .icon-WnO6o2,
 #app-mount .sidebar-2K8pFh .container-PNkimc .containerDefault-3GGEv_ .wrapper-CU3qI5:hover .name-IbjUBS {
   opacity: 1;
