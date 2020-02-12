@@ -453,7 +453,7 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
 }
 /*點進去伺服器後左上角的官方標誌*/
 #app-mount .sidebar-2K8pFh .flowerStar-1GeTsn path {
-  fill: var(--BG-insideserver-lefttop-officalicon);
+  fill: var(--BG-insideserver-lefttop-officalicon-fill);
 }
 #app-mount .sidebar-2K8pFh .premiumGuildIconGem-C4yUDR {
   color: #fff;
