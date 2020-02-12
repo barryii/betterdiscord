@@ -1175,8 +1175,9 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
 #app-mount .layer-3QrUeG[aria-label*=SETTINGS] .standardSidebarView-3F1I7i .info-1VyQPT .colorMuted-HdFt4q.size12-3cLvbJ:last-child {
   padding-bottom: 20px !important;
 }
+/*設定裡左下角新增的字*/
 #app-mount .layer-3QrUeG[aria-label*=SETTINGS] .standardSidebarView-3F1I7i .info-1VyQPT .colorMuted-HdFt4q.size12-3cLvbJ:last-child:after {
-  content: "Frosted Glass v1.0.0 by Gibbu";
+  content: "Customized by Barryii";
   position: absolute;
   left: 0;
   top: 18px;
