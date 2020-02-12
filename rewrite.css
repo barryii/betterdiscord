@@ -837,8 +837,9 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
   color: rgba(var(--BG-right-memberlist-state));
 }
 
+/*搜尋結果上方那列的背景顏色*/
 #app-mount .searchResultsWrap-2DKFzt {
-  background: rgba(0, 0, 0, 0.2);
+  background: rgba(var(--BG-searchresult-top-background));
 }
 #app-mount .searchResultsWrap-2DKFzt .searchHeader-1l-wpR {
   background: rgba(0, 0, 0, 0.2);
