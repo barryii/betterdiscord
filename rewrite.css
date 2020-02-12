@@ -254,8 +254,8 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
 }
 /*選取時顏色(反藍)*/
 #app-mount ::selection {
-  background: var(--BG-highlight);
-  color: var(--BG-highlighttext) !important;
+  background: var(--BG-highlight-background);
+  color: var(--BG-highlight-text-color) !important;
 }
 #app-mount .callAvatarBorder-1D_KaE.video-3GgX2M.selected-2esnyn:not(.speaking-oCqYMI):not(.soundsharing-102bS9) {
   box-shadow: inset 0 0 0 2px rgba(var(--BG-gradient-one), 1);
@@ -345,7 +345,7 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
 #app-mount .wrapper-1Rf91z .button-OhfaWu,
 #app-mount .wrapper-1Rf91z .childWrapper-anI2G9,
 #app-mount .wrapper-1Rf91z .mention-1f5kbO {
-  background: var(--BG-lefttop-discordpattern);
+  background: var(--BG-lefttop-discordpattern-background);
 }
 #app-mount .wrapper-1Rf91z .listItem-2P_4kh:first-child {
   margin-top: 10px;
@@ -384,14 +384,14 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
 }
 /*左下角新增和搜尋伺服器*/
 #app-mount .wrapper-1Rf91z .circleIconButton-jET_ig {
-  background: var(--BG-leftbottom-addandsearch);
+  background: var(--BG-leftbottom-addandsearch-background);
   transition: 0.2s ease !important;
 }
 /*左下角新增和搜尋伺服器的svg*/
 #app-mount .wrapper-1Rf91z .circleIconButton-jET_ig svg path {
   fill: var(--BG-leftbottom-addandsearch-svg-fill) !important;
 }
-/*左下角新增和搜尋伺服器滑鼠點下去時*/
+/*左下角新增和搜尋伺服器滑鼠點下去後*/
 #app-mount .wrapper-1Rf91z .circleIconButton-jET_ig.selected-ugP_am {
   background: var(--BG-leftbottom-addandsearch-click-background);
 }
@@ -435,17 +435,17 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
 #app-mount .sidebar-2K8pFh .searchBar-6Kv8R2 .container-2XeR5Z {
   background: transparent;
 }
-/*左邊語音頻道滑鼠經過時的成員背景顏色*/
+/*語音頻道滑鼠經過時的成員背景顏色*/
 #app-mount .sidebar-2K8pFh .clickable-23RaYz:hover .content-3xS9Lh {
   background: var(--BG-voicechannel-member-hover-background);
 }
-/*左邊語音頻道點選成員的背景顏色*/
+/*語音頻道點選成員的背景顏色*/
 #app-mount .sidebar-2K8pFh .clickable-23RaYz.selected-3TGCSZ .content-3xS9Lh {
   background: var(--BG-voicechannel-member-click-background);
 }
-/*左邊語音頻道點選成員的名字顏色*/
+/*語音頻道點選成員的名字顏色*/
 #app-mount .sidebar-2K8pFh .clickable-23RaYz.selected-3TGCSZ .content-3xS9Lh .username-lm8y6T {
-  color: var(--BG-voicechannel-member-click-name) !important;
+  color: var(--BG-voicechannel-member-click-name-color) !important;
 }
 #app-mount .sidebar-2K8pFh .moreUsers-7v8yWY {
   background: linear-gradient(var(--BG-gradient-direction), rgba(var(--BG-gradient-one), 1) 20%, rgba(var(--BG-gradient-two), 1));
