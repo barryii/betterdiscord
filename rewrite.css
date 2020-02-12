@@ -841,9 +841,9 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
 #app-mount .searchResultsWrap-2DKFzt {
   background: rgba(var(--BG-searchresult-background));
 }
-/*搜尋結果的頻道名稱的背景顏色*/
+/*搜尋結果上方那列的背景顏色*/
 #app-mount .searchResultsWrap-2DKFzt .searchHeader-1l-wpR {
-  background: rgba(0, 0, 0, 0.2);
+  background: rgba(var(--BG-searchresult-top-background));
 }
 #app-mount .searchResultsWrap-2DKFzt .channelName-1QajIf {
   background: transparent;
