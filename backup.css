@@ -538,7 +538,7 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
 #app-mount .sidebar-2K8pFh .container-PNkimc .containerDefault-1ZnADq .wrapper-1ucjTd:not(.modeMuted-3osy7j).modeUnread-1zpFdA .content-3at_AU {
   background: rgba(255, 255, 255, 0);
 }
-/*滑鼠經過未讀的文字頻道*/
+/*滑鼠經過未讀訊息*/
 #app-mount .sidebar-2K8pFh .container-PNkimc .containerDefault-1ZnADq .wrapper-1ucjTd:not(.modeMuted-3osy7j).modeUnread-1zpFdA:hover .content-3at_AU {
   background: rgba(255, 255, 255, 0.1);
 }
