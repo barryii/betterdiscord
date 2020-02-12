@@ -480,8 +480,9 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
 #app-mount .sidebar-2K8pFh .container-PNkimc {
   background: transparent;
 }
+/*左上角伺服器名稱背景顏色*/
 #app-mount .sidebar-2K8pFh .container-PNkimc .header-2o-2hj {
-  box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
+  box-shadow: 0 0 0px rgba(var(--BG-lefttop-servername));
   background: transparent !important;
 }
 #app-mount .sidebar-2K8pFh .container-PNkimc .header-2o-2hj.withBanner-3j8ruM {
