@@ -1766,9 +1766,15 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
   stroke: rgba(var(--BG-gradient-two), 1) !important;
 }
 
-/*右鍵時背景顏色*/
+/*右鍵時背景*/
 #app-mount .contextMenu-HLZMGh {
   background: var(--BG-rightmouse-background);/*
+  background: var(--BG-image-set) center/cover fixed;
+  box-shadow: inset 0 0 0 300px rgba(0, 0, 0, calc(var(--BG-popout-brightness) + .2));*/
+}
+/*右鍵時加入反應背景*/
+#app-mount .contextMenu-HLZMGh .reaction-1ELvT8 {
+  background: var(--BG-rightmouse-addreaction-background);/*
   background: var(--BG-image-set) center/cover fixed;
   box-shadow: inset 0 0 0 300px rgba(0, 0, 0, calc(var(--BG-popout-brightness) + .2));*/
 }
