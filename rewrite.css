@@ -616,7 +616,7 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
 }
 /*對文字發言加入反應*/
 #app-mount .chat-3bRxxu .reaction-1ELvT8 {
-  background: var(--BG-textarea-addreaction-text-background);
+  background: var(--BG-chatarea-addreaction-text-background);
 }
 #app-mount .chat-3bRxxu .reaction-1ELvT8.reactionMe-23mbRf {
   background: rgba(255, 255, 255, 0.2);
