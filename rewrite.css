@@ -595,7 +595,7 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
 }
 
 /*滑鼠經過聊天區的每項聊天紀錄*/
-#app-mount .compact-T3H92H .container-3FojY8:hover {
+#app-mount .compact-T3H92H:hover .container-3FojY8 {
   background: var(--BG-chatarea-hover-background);
 }
 /*聊天區和成員名單區(圖片之下)*/
