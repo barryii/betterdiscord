@@ -1773,7 +1773,7 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
   box-shadow: inset 0 0 0 300px rgba(0, 0, 0, calc(var(--BG-popout-brightness) + .2));*/
 }
 /*右鍵時加入反應背景*/
-#app-mount .contextMenu-HLZMGh .label-JWQiNe {
+#app-mount .contextMenu-HLZMGh .subMenuContext-2n_9YM {
   background: var(--BG-rightmouse-addreaction-background);
 }
 #app-mount .contextMenu-HLZMGh .itemGroup-1tL0uz {
