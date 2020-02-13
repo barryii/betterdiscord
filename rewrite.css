@@ -435,6 +435,11 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
 #app-mount .sidebar-2K8pFh .searchBar-6Kv8R2 .container-2XeR5Z {
   background: transparent;
 }
+
+/*語音頻道成員的音量條*/
+#app-mount .sidebar-2K8pFh .clickable-23RaYz .itemSlider-FZeYw0 {
+  color: var(--BG-voicechannel-member-volumeslider-color) !important;
+}
 /*語音頻道成員的名字顏色*/
 #app-mount .sidebar-2K8pFh .clickable-23RaYz .content-3xS9Lh .username-lm8y6T {
   color: var(--BG-voicechannel-member-name-color) !important;
