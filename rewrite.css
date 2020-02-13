@@ -595,7 +595,7 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
 }
 
 /*滑鼠經過聊天區的每項聊天紀錄*/
-#app-mount .chat-3bRxxu:hover .compact-239Dlz {
+#app-mount .chat-3bRxxu .compact-239Dlz:hover {
   background: var(--BG-chatarea-hover-background);
 }
 /*聊天區和成員名單區(圖片之下)*/
