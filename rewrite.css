@@ -383,6 +383,10 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
 #app-mount .wrapper-1Rf91z .acronym-2mOFsV {
   background: var(--BG-server-without-picture-backgroung);
 }
+/*滑鼠經過沒圖片的伺服器圖案*/
+#app-mount .wrapper-1Rf91z .acronym-2mOFsV:hover {
+  background: var(--BG-server-without-picture-hover-backgroung);
+}
 /*左下角新增和搜尋伺服器*/
 #app-mount .wrapper-1Rf91z .circleIconButton-jET_ig {
   background: var(--BG-leftbottom-addandsearch-background);
