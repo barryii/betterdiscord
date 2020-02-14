@@ -677,6 +677,15 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
   border: none !important;
   font-weight: 600 !important;
 }
+/*滑鼠經過被標記時*/
+#app-mount .chat-3bRxxu .mention:hover {
+  background: var(--BG-chatarea-mention-hover-background) !important;
+  border-radius: 3px;
+  padding: 0 2px;
+  color: var(--BG-chatarea-mention-hover-color) !important;
+  border: none !important;
+  font-weight: 600 !important;
+}
 #app-mount .chat-3bRxxu .akaBadge-1M-1Gw {
   background: linear-gradient(var(--BG-gradient-direction), rgba(var(--BG-gradient-one), 1), rgba(var(--BG-gradient-two), 1)) !important;
 }
