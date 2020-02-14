@@ -852,11 +852,11 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
 #app-mount .members-1998pB .member-3-YXUe.selected-aXhQR6 {
   background: var(--BG-right-memberlist-select-background);
 }
-/*右邊點選成員名單時名字顏色*/
+/*右邊點選成員名單時名字顏色
 #app-mount .members-1998pB .member-3-YXUe.selected-aXhQR6 .roleColor-rz2vM0,
 #app-mount .members-1998pB .member-3-YXUe.selected-aXhQR6 .text-zpzAjW {
   color: var(--BG-right-memberlist-select-name-color) !important;
-}
+}*/
 /*右邊成員名單點選時機器人三個字的標籤
 #app-mount .members-1998pB .member-3-YXUe.selected-aXhQR6 .botTag-2WPJ74 {
   background: #fff !important;
