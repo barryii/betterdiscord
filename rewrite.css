@@ -445,8 +445,8 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
   background: transparent;
 }
 
-/*語音頻道成員的音量條*/
-#app-mount .sidebar-2K8pFh .clickable-23RaYz .slider-1PF9SW .barFill-23-gu- {
+/*語音頻道成員的音量條(x)*/
+#app-mount .sidebar-2K8pFh .clickable-23RaYz .grabber-3mFHz2 {
   background: var(--BG-voicechannel-member-volumeslider-background) !important;
 }
 /*語音頻道成員的名字顏色*/
