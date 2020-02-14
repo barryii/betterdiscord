@@ -437,7 +437,7 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
 }
 
 /*語音頻道成員的音量條*/
-#app-mount .sidebar-2K8pFh .clickable-23RaYz .itemSlider-FZeYw0 {
+#app-mount .sidebar-2K8pFh .clickable-23RaYz .usernameSpeaking-2xbKKh {
   background: var(--BG-voicechannel-member-volumeslider-background) !important;
 }
 /*語音頻道成員的名字顏色*/
