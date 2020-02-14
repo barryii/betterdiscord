@@ -379,8 +379,9 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
 #app-mount .wrapper-1Rf91z .wrapper-21YSNc + .listItem-2P_4kh {
   margin-top: 10px;
 }
+/*沒圖片的伺服器圖案*/
 #app-mount .wrapper-1Rf91z .acronym-2mOFsV {
-  background: rgba(0, 0, 0, 0.3);
+  background: var(--BG-server-without-picture-backgroung);
 }
 /*左下角新增和搜尋伺服器*/
 #app-mount .wrapper-1Rf91z .circleIconButton-jET_ig {
