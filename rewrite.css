@@ -1798,7 +1798,7 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
 }
 
 /*對別人右鍵，身分組*/
-#app-mount .itemToggle-S7XGOQ {
+#app-mount .contextMenu-HLZMGh .itemToggle-S7XGOQ {
   background: var(--BG-rightmouse-roles-background) !important;
 }
 /*右鍵時加入反應背景*/
