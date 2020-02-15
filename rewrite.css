@@ -1012,7 +1012,7 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
 }
 /*設定裡的滑桿*/
 #app-mount .layer-3QrUeG[aria-label*=SETTINGS] .standardSidebarView-3F1I7i .contentRegion-3nDuYy .slider-1PF9SW .barFill-23-gu- {
-  background: rgba(114, 137, 218, 1);
+  background: var(--BG-setting-slider);
 }
 #app-mount .layer-3QrUeG[aria-label*=SETTINGS] .standardSidebarView-3F1I7i .contentRegion-3nDuYy .guildGraphicContainer-39I_Pl,
 #app-mount .layer-3QrUeG[aria-label*=SETTINGS] .standardSidebarView-3F1I7i .contentRegion-3nDuYy .header-1NFI81 {
