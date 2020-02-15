@@ -445,9 +445,13 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
   background: transparent;
 }
 
-/*語音頻道成員的音量條的那顆點點(x)*/
+/*語音頻道成員的音量條的那顆點點*/
 #app-mount .grabber-3mFHz2 {
   background: var(--BG-voicechannel-member-volumepoint-background) !important;
+}
+/*語音頻道成員的音量條的那顆點點(x)*/
+#app-mount .itemSlider-FZeYw0 {
+  background: var(--BG-voicechannel-member-volumeslider-background) !important;
 }
 /*語音頻道成員的名字顏色*/
 #app-mount .sidebar-2K8pFh .clickable-23RaYz .content-3xS9Lh .username-lm8y6T {
