@@ -449,7 +449,7 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
 #app-mount .grabber-3mFHz2 {
   background: var(--BG-voicechannel-member-volumepoint-background) !important;
 }
-/*語音頻道成員的音量條(x)*/
+/*語音頻道成員的音量條*/
 #app-mount .itemSlider-FZeYw0 .barFill-23-gu- {
   background: var(--BG-voicechannel-member-volumeslider-background) !important;
 }
@@ -1797,6 +1797,10 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
   stroke: rgba(var(--BG-gradient-two), 1) !important;
 }
 
+/*對別人右鍵，身分組*/
+#app-mount .itemToggle-S7XGOQ {
+  background: var(--BG-rightmouse-roles-background) !important;
+}
 /*右鍵時加入反應背景*/
 #app-mount .subMenuContext-2n_9YM {
   background: var(--BG-rightmouse-addreaction-background);
