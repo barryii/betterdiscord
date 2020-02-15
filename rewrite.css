@@ -449,7 +449,7 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
 #app-mount .grabber-3mFHz2 {
   background: var(--BG-voicechannel-member-volumepoint-background) !important;
 }
-/*語音頻道成員的音量條的那顆點點(x)*/
+/*語音頻道成員的音量條(x)*/
 #app-mount .itemSlider-FZeYw0 {
   background: var(--BG-voicechannel-member-volumeslider-background) !important;
 }
