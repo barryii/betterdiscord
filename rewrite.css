@@ -450,7 +450,7 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
   background: var(--BG-voicechannel-member-volumepoint-background) !important;
 }
 /*語音頻道成員的音量條(x)*/
-#app-mount .label-JWQiNe .barFill-23-gu- {
+#app-mount .grabber-3mFHz2 .barFill-23-gu- {
   background: var(--BG-voicechannel-member-volumeslider-background) !important;
 }
 /*語音頻道成員的名字顏色*/
