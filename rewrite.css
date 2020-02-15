@@ -446,7 +446,7 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
 }
 
 /*語音頻道成員的音量條(x)*/
-#app-mount .sidebar-2K8pFh .clickable-23RaYz .grabber-3mFHz2 {
+#app-mount .sidebar-2K8pFh .clickable-23RaYz .itemSlider-FZeYw0 {
   background: var(--BG-voicechannel-member-volumeslider-background) !important;
 }
 /*語音頻道成員的名字顏色*/
@@ -2832,8 +2832,9 @@ body.hidden-by-OTB .container-1r6BKw {
 #app-mount #MemberCount + .membersGroup-v9BXpm {
   margin-top: 0;
 }
+/*不知道是什麼的tooltip*/
 #app-mount .dst-tooltip {
-  background: linear-gradient(var(--BG-gradient-direction), rgba(var(--BG-gradient-one), 1) 20%, rgba(var(--BG-gradient-two), 1));
+  background: var(--BG-unknow-tooltip-background);
   width: 225px;
   top: 0 !important;
   left: 0 !important;
