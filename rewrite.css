@@ -1872,7 +1872,6 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
 /*釘選的"跳到"鍵*/
 #app-mount .messagesPopoutWrap-1MQ1bW .actionButtons-1sUUug .jumpButton-3DTcS_ {
   background: var(--BG-pinned-jumpbutton-background);
-  color: #fff;
 }
 #app-mount .messagesPopoutWrap-1MQ1bW [class*=timestamp] {
   color: rgba(255, 255, 255, 0.5);
