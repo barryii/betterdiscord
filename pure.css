@@ -1555,7 +1555,8 @@ textarea,
 	display: none;
 }
 .chat-3bRxxu .chatContent-a9vAAp {
-	background: rgba(0, 0, 0, calc(var(--background-shading) * .5));
+	/* background: rgba(0, 0, 0, calc(var(--background-shading) * .5)); */
+	background-color: transparent;
 }
 .chat-3bRxxu .base-34jWEe {
 	border-bottom: 1px solid rgba(255, 255, 255, 0.02);
